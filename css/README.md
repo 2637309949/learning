@@ -4,4 +4,11 @@
 
 #### 2.CSS兼容性问题
 1). [CSS 多浏览器兼容性问题及解决方案](http://www.cnblogs.com/jx270/p/4356800.html)  
+2). [CSS浏览器兼容性写法小结](http://www.cnblogs.com/Jener/p/5878729.html)  
+3). [div+css通用兼容性代码整理](http://www.jb51.net/css/43686.html)  
+4). [CSS兼容性常见问题总结](http://www.cnblogs.com/luckyXcc/p/5995033.html)  
+#### 3.CSS布局
+1). [css布局模型全面了解](http://www.jb51.net/css/478450.html)  
+2). [CSS3 弹性盒布局模型和布局原理](http://blog.csdn.net/u010297791/article/details/54945290)  
+
 
