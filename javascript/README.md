@@ -4,5 +4,11 @@
 #### 2.作用域
 1). [理解 JavaScript 作用域和作用域链](http://www.cnblogs.com/lhb25/archive/2011/09/06/javascript-scope-chain.html)  
 2). [详解JavaScript作用域](http://blog.csdn.net/liuyan19891230/article/details/50417235)  
+3). [Javascript的this用法](http://www.ruanyifeng.com/blog/2010/04/using_this_keyword_in_javascript.html)  
+#### 3.OOP
+1). [javascript中创建对象的几种方式](http://blog.csdn.net/dinglang_2009/article/details/7913866)  
+2). [js创建对象的方法汇总](http://www.jb51.net/article/77676.htm)  
+
+
 
 
