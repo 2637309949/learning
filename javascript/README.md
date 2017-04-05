@@ -8,7 +8,9 @@
 #### 3.OOP
 1). [javascript中创建对象的几种方式](http://blog.csdn.net/dinglang_2009/article/details/7913866)  
 2). [js创建对象的方法汇总](http://www.jb51.net/article/77676.htm)  
-2). [非构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)  
+3). [非构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)  
+4). [构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html)  
+
 
 
 
