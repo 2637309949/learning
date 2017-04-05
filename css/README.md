@@ -1,7 +1,8 @@
 #### 1.CSS优先级
+0). [CSS样式的优先级(入门推荐)](http://www.mamicode.com/info-detail-455127.html)  
 1). [CSS选择器-优先级-性能](http://blog.csdn.net/trifling_/article/details/52791426)  
 2). [CSS选择器优先级及!important属性](http://blog.csdn.net/lzgs_4/article/details/43446303)  
-3).[CSS 的优先级机制[总结]](http://www.cnblogs.com/xugang/archive/2010/09/24/1833760.html)  
+3). [CSS 的优先级机制[总结]](http://www.cnblogs.com/xugang/archive/2010/09/24/1833760.html)  
 #### 2.CSS兼容性问题
 1). [CSS 多浏览器兼容性问题及解决方案](http://www.cnblogs.com/jx270/p/4356800.html)  
 2). [CSS浏览器兼容性写法小结](http://www.cnblogs.com/Jener/p/5878729.html)  
