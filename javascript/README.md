@@ -17,6 +17,7 @@
 #### 6.script加载顺序
 1). [script放置最佳位置以及html执行顺序](http://www.cnblogs.com/iamwangxupeng/p/4950255.html)  
 2). [html,css,js加载顺序](http://www.cnblogs.com/yingsong/p/6170780.html)  
+3). [HTML加载顺序总结测试](http://www.cnblogs.com/sunrunzhi/p/5407725.html)  
 
 
 
