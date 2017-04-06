@@ -12,6 +12,13 @@
 4). [构造函数的继承](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html)  
 #### 4.闭包
 1). [学习Javascript闭包（Closure）](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)  
+#### 5.事件
+1). [JavaScript中绑定事件监听函数的通用方法[ addEvent() ]](http://www.cnblogs.com/rainman/archive/2009/02/11/1387955.html)  
+#### 6.script加载顺序
+1). [script放置最佳位置以及html执行顺序](http://www.cnblogs.com/iamwangxupeng/p/4950255.html)  
+2). [html,css,js加载顺序](http://www.cnblogs.com/yingsong/p/6170780.html)  
+
+
 
 
 
