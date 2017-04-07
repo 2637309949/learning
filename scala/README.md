@@ -5,4 +5,4 @@
 #### 3.ScalaJS
 3). [Basic tutorial](http://www.scala-js.org/tutorial/basic/)  
 #### 4.Binding
-3). [Binding.scala快速上手指南](https://github.com/ThoughtWorksInc/Binding.scala/wiki/Binding.scala%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97)  
+4). [Binding.scala快速上手指南](https://github.com/ThoughtWorksInc/Binding.scala/wiki/Binding.scala%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97)  
