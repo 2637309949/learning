@@ -22,7 +22,8 @@
 1). [script放置最佳位置以及html执行顺序](http://www.cnblogs.com/iamwangxupeng/p/4950255.html)  
 2). [html,css,js加载顺序](http://www.cnblogs.com/yingsong/p/6170780.html)  
 3). [HTML加载顺序总结测试](http://www.cnblogs.com/sunrunzhi/p/5407725.html)  
-
+#### 8.兼容性问题
+1). [Javascript 多浏览器兼容性问题及解决方案](http://www.jb51.net/article/21483.htm)  
 
 
 
