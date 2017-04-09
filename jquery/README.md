@@ -8,6 +8,7 @@
 #### 4.jQuery教程
 1). [jQuery 菜鸟教程](http://www.runoob.com/jquery/jquery-dom-remove.html)  
 2). [jQuery 选择器](http://www.runoob.com/jquery/jquery-ref-selectors.html)  
+3). [jQuery 杂项方法](http://www.runoob.com/jquery/jquery-ref-misc.html)  
 
 
 
