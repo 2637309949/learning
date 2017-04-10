@@ -13,3 +13,4 @@
 #### 6.sbt教程
 1). [sbt入门](http://www.scala-sbt.org/0.13/docs/zh-cn/)  
 2). [Scope](http://www.scala-sbt.org/0.13/docs/zh-cn/Scopes.html)  
+3). [使用SBT构建Scala应用（推荐）](https://github.com/CSUG/real_world_scala/blob/master/02_sbt.markdown)  
