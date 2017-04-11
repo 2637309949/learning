@@ -4,11 +4,11 @@
 **1. [Directory Structure](http://www.scala-js.org/doc/project/cross-build.html)**
 
 > **project root**
- +- jvm
- |   +- src/main/scala
- +- js
- |   +- src/main/scala
- +- shared
+> +- jvm
+> |   +- src/main/scala
+> +- js
+> |   +- src/main/scala
+> +- shared
      +- src/main/scala
 
 **2. [命令](http://www.scala-js.org/tutorial/basic/)**
