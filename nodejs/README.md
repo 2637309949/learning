@@ -11,6 +11,7 @@
 1). [Modules 官网讲解整个load过程](https://github.com/aihttp://nodejs.cn/api/en/modules.html)  
 2). [Modules 缓存机制（重要）](http://nodejs.cn/api/en/modules.html#modules_caching)  
 3). [Modules 导入循环](http://nodejs.cn/api/en/modules.html#modules_cycles)  
+4). [模块包装器](http://nodejs.cn/api/modules.html#modules_the_module_wrapper)  
 
 
 
