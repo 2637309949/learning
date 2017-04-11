@@ -6,6 +6,7 @@
 2). [Node.js加密算法库Crypto（推荐）](http://ju.outofmemory.cn/entry/118198)  
 #### 3.规范风格
 1). [JavaScript Style Guide](https://github.com/airbnb/javascript)  
+2). [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)  
 
 
 
