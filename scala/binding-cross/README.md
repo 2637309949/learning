@@ -9,7 +9,7 @@
 > +- js
 > |   +- src/main/scala
 > +- shared
-     +- src/main/scala
+> |   +- src/main/scala
 
 **2. [命令](http://www.scala-js.org/tutorial/basic/)**
 
