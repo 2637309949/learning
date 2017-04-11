@@ -30,6 +30,8 @@
 #### 9.自动化管理
 1). [grunt入门](http://developer.51cto.com/art/201506/479127.htm)  
 2). [grunt官方入门](https://gruntjs.com/getting-started)  
+#### 10.ES6语法
+1). [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/)  
 
 
 
