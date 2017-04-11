@@ -28,7 +28,8 @@
 1). [AMD、CMD、UMD 模块的写法](http://web.jobbole.com/82238/)  
 2). [requireJS](http://www.requirejs.cn/)  
 #### 9.自动化管理
-1). [grunt入门（推荐）](http://developer.51cto.com/art/201506/479127.htm)  
+1). [grunt入门](http://developer.51cto.com/art/201506/479127.htm)  
+2). [grunt官方入门](https://gruntjs.com/getting-started)  
 
 
 
