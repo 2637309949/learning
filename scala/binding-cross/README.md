@@ -18,5 +18,5 @@
 > 2.fooJVM/run          #运行JVM项目
 > 3.fooJS/fastOptJS    #快速生成JS
 
-**3. [scalajs-cross-compile-example](https://github.com/scala-js/scalajs-cross-compile-example)**
+**3. [scalajs-cross-compile-example](https://github.com/scala-js/scalajs-cross-compile-example)**  
 **4. [Binding.scala-sample](https://github.com/ThoughtWorksInc/Binding.scala-sample)**
