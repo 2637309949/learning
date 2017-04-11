@@ -10,6 +10,7 @@
 2). [测试Scala.js代码](http://www.scala-js.org/libraries/testing.html)  
 #### 5.类
 1). [scala override的学习总结](https://my.oschina.net/aiguozhe/blog/39934)  
+2). [Scala中那些令人头痛的符号](http://blog.csdn.net/bobozhengsir/article/details/13023023)  
 #### 6.sbt教程
 1). [sbt入门](http://www.scala-sbt.org/0.13/docs/zh-cn/)  
 2). [Scope](http://www.scala-sbt.org/0.13/docs/zh-cn/Scopes.html)  
