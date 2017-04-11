@@ -24,6 +24,11 @@
 3). [HTML加载顺序总结测试](http://www.cnblogs.com/sunrunzhi/p/5407725.html)  
 #### 8.兼容性问题
 1). [Javascript 多浏览器兼容性问题及解决方案](http://www.jb51.net/article/21483.htm)  
+#### 9.模块化
+1). [AMD、CMD、UMD 模块的写法](http://web.jobbole.com/82238/)  
+2). [requireJS](http://www.requirejs.cn/)  
+
+
 
 
 
