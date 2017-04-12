@@ -34,7 +34,9 @@
 #### 10.ES6语法
 1). [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/)  
 2). [ES6模块系统和commonJS的区分（重要）](http://es6.ruanyifeng.com/#docs/module-loader)  
-2). [Reflect（重要）](http://es6.ruanyifeng.com/#docs/reflect)  
+3). [Reflect（重要）](http://es6.ruanyifeng.com/#docs/reflect)  
+4). [Proxy（重要）](http://es6.ruanyifeng.com/#docs/proxy)  
+
 
 
 
