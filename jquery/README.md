@@ -9,7 +9,8 @@
 1). [jQuery 菜鸟教程](http://www.runoob.com/jquery/jquery-dom-remove.html)  
 2). [jQuery 选择器](http://www.runoob.com/jquery/jquery-ref-selectors.html)  
 3). [jQuery 杂项方法](http://www.runoob.com/jquery/jquery-ref-misc.html)  
-
+#### 5.jQuery面试
+1). [最常见的 20 个 jQuery 面试问题及答案](http://www.oschina.net/translate/jquery-interview-questions-answers-programmers?lang=chs&page=2)  
 
 
 
