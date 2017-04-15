@@ -15,6 +15,7 @@
 5). [exports 快捷方式（重要）](http://nodejs.cn/api/modules.html#modules_exports_shortcut)  
 #### 5.高级对象
 1). [Stream接口](http://javascript.ruanyifeng.com/nodejs/stream.html)  
+2). [querystring 模块](http://javascript.ruanyifeng.com/nodejs/querystring.html)  
 #### 6.面试题
 1). [node.js面试题大全](http://www.cnblogs.com/meteorcn/p/node_mianshiti_interview_question.html)  
 
