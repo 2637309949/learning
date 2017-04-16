@@ -22,6 +22,8 @@
 2). [10个常见的Node.js面试题](http://www.admin10000.com/document/6715.html)  
 #### 7.单元测试
 1). [Nodejs单元测试小结](https://segmentfault.com/a/1190000002921481)  
+2). [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)  
+
 
 
 
