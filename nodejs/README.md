@@ -18,6 +18,7 @@
 1). [Stream接口](http://javascript.ruanyifeng.com/nodejs/stream.html)  
 2). [querystring 模块](http://javascript.ruanyifeng.com/nodejs/querystring.html)  
 3). [Buffer对象](http://javascript.ruanyifeng.com/nodejs/buffer.html)  
+4). [fs 模块](http://javascript.ruanyifeng.com/nodejs/fs.html)  
 #### 6.面试题
 1). [node.js面试题大全](http://www.cnblogs.com/meteorcn/p/node_mianshiti_interview_question.html)  
 2). [10个常见的Node.js面试题](http://www.admin10000.com/document/6715.html)  
