@@ -38,6 +38,12 @@
 2). [ES6模块系统和commonJS的区分（重要）](http://es6.ruanyifeng.com/#docs/module-loader)  
 3). [Reflect（重要）](http://es6.ruanyifeng.com/#docs/reflect)  
 4). [Proxy（重要）](http://es6.ruanyifeng.com/#docs/proxy)  
+#### 12.angular2学习资料
+1). [Angular 2 中文资料汇总(文章，视频，教程)](https://github.com/kittencup/angular2-learning-cn)  
+2). [Angular2官网中文版](https://angular.cn/)  
+#### 13.react学习资料
+
+
 
 
 
