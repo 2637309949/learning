@@ -4,6 +4,7 @@
 #### 2.加密算法
 1). [nodejs中常用加密算法](http://www.cnblogs.com/laogai/p/4664917.html)  
 2). [Node.js加密算法库Crypto（推荐）](http://ju.outofmemory.cn/entry/118198)  
+3). [Nodejs创建HTTPS服务器](http://blog.fens.me/nodejs-https-server/)  
 #### 3.代码规范风格
 1). [JavaScript Style Guide](https://github.com/airbnb/javascript)  
 2). [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)  
