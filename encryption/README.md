@@ -4,3 +4,4 @@
 3). [加解密算法的一些概述总结](http://blog.chinaunix.net/uid-11582448-id-3058813.html)  
 4). [常见加密算法分,用途,原理以及比较](http://blog.csdn.net/zuiyuezhou888/article/details/7557048)  
 #### 2.场景应用
+1). [Web前端密码加密是否有意义？](https://www.zhihu.com/question/25539382)  
