@@ -14,6 +14,13 @@
 #### 4.CSS技巧
 1). [12 个 CSS 高级技巧汇总](http://www.codeceo.com/article/12-css-protips.html)  
 2). [CSS 的 22 个必备技巧](http://www.tuicool.com/articles/3maqMb)  
-
+#### 5.选择器
+1). [css 选择器的分类（派生，id，class，属性）](http://www.w3school.com.cn/css/css_syntax_descendant_selector.asp)  
+2). [css 选择器的分类、优先级总结](http://www.cnblogs.com/spark-of-life/archive/2013/01/08/2850671.html)  
+#### 6.对齐技巧
+1). [CSS 水平对齐](http://www.w3school.com.cn/css/css_align.asp)  
+#### 7.高级应用
+1). [CSS 分类 (Classification)](http://www.w3school.com.cn/css/css_classification.asp)  
+2). [CSS 图像透明度](http://www.w3school.com.cn/css/css_image_transparency.asp)  
 
 
