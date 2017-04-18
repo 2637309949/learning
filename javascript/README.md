@@ -43,6 +43,11 @@
 2). [Angular2官网中文版](https://angular.cn/)  
 #### 13.react学习资料
 
+#### 14.设计模式的实现
+1). [单例模式](http://www.ceaze.com/archives/198.html)  
+2). [代理模式](http://www.ceaze.com/archives/210.html)  
+
+
 
 
 
