@@ -6,3 +6,4 @@
 2). [创建用户，用户授权等基本管理命令](http://www.runoob.com/mysql/mysql-administration.html)  
 3). [MySQL 数据类型](http://www.runoob.com/mysql/mysql-data-types.html)  
 4). [MySQL 查询数据](http://www.runoob.com/mysql/mysql-select-query.html)  
+5). [MySQL LIKE 子句](http://www.runoob.com/mysql/mysql-like-clause.html)  
