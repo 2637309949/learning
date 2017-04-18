@@ -13,6 +13,7 @@
 9). [正则表达式](http://www.runoob.com/mysql/mysql-regexp.html)  
 10). [事务](http://www.runoob.com/mysql/mysql-transaction.html)  
 11). [索引](http://www.runoob.com/mysql/mysql-index.html)  
+12). [序列使用](http://www.runoob.com/mysql/mysql-using-sequences.html)  
 #### 3.性能技巧
 1). [元数据](http://www.runoob.com/mysql/mysql-database-info.html)  
 
