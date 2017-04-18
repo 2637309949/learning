@@ -8,10 +8,11 @@
 2). [jQuery AJAX 方法](http://www.runoob.com/jquery/jquery-ref-ajax.html)  
 #### 4.jQuery教程
 1). [jQuery 菜鸟教程](http://www.runoob.com/jquery/jquery-dom-remove.html)  
-2). [jQuery 选择器（注意后面的总结）](http://www.runoob.com/jquery/jquery-ref-selectors.html)  
+2). [jQuery 选择器（注意后面的选择器分类总结）](http://www.runoob.com/jquery/jquery-ref-selectors.html)  
 3). [jQuery 杂项方法](http://www.runoob.com/jquery/jquery-ref-misc.html)  
 #### 5.jQuery面试
 1). [最常见的 20 个 jQuery 面试问题及答案](http://www.oschina.net/translate/jquery-interview-questions-answers-programmers?lang=chs&page=2)  
+2). [9个JQuery和5个JavaScript经典面试题](http://blog.csdn.net/wang_meiwei/article/details/50765066)  
 #### 6.事件处理
 1). [触发命名空间](http://www.runoob.com/jquery/event-namespace.html)  
 2). [阻止剩下事件的触发](http://www.runoob.com/jquery/event-stopimmediatepropagation.html)  
