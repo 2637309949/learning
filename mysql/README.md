@@ -16,6 +16,13 @@
 12). [序列使用](http://www.runoob.com/mysql/mysql-using-sequences.html)  
 #### 3.性能技巧
 1). [元数据](http://www.runoob.com/mysql/mysql-database-info.html)  
+#### 4.面试题
+1). [MySQL常见面试题](http://www.cnblogs.com/frankielf0921/p/5930743.html)  
+2). [超键、候选键、主键、外键](http://blog.csdn.net/liushuijinger/article/details/12832017)  
+3). [优化Mysql数据库的8个方法](http://www.jb51.net/article/42884.htm)  
+4). [MySQL百万级数据库优化方案（重要）](http://blog.csdn.net/luyee2010/article/details/8309806)  
+
+
 
 
 

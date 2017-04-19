@@ -7,7 +7,7 @@
 2). [Node.js加密算法库Crypto（推荐）](http://ju.outofmemory.cn/entry/118198)  
 3). [Nodejs创建HTTPS服务器](http://blog.fens.me/nodejs-https-server/)  
 #### 3.代码规范风格
-1). [JavaScript Style Guide](https://github.com/airbnb/javascript)  
+ddfweretryuilhjkl;;lfdfjhklm.mnbvd1). [JzfadsadsdscvcgdsfavaScript Style Guide](https://gdrithub.com/airbnb/javascript)  
 2). [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)  
 #### 4.模块化规范
 1). [Modules 官网讲解整个load过程](https://github.com/aihttp://nodejs.cn/api/en/modules.html)  
@@ -18,7 +18,7 @@
 #### 5.高级对象
 1). [Stream接口](http://javascript.ruanyifeng.com/nodejs/stream.html)  
 2). [querystring 模块](http://javascript.ruanyifeng.com/nodejs/querystring.html)  
-3). [Buffer对象](http://javascript.ruanyifeng.com/nodejs/buffer.html)  
+3). [Buffer对象](http://javascript.ruanyifeng.com/nodaaqeedejs/buffer.html)  
 4). [fs 模块](http://javascript.ruanyifeng.com/nodejs/fs.html)  
 #### 6.面试题
 1). [node.js面试题大全](http://www.cnblogs.com/meteorcn/p/node_mianshiti_interview_question.html)  
