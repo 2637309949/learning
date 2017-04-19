@@ -7,5 +7,6 @@
 6). [基于nginxd的Tengine开源项目](http://tengine.taobao.org/)  
 7). [Nginx入门教程](http://www.linuxidc.com/Linux/2016-12/138481.htm)  
 8). [Nginx中文参考手册,教程](http://shouce.jb51.net/nginx/index.html)  
+9). [Nginx 服务器安装及配置文件详解](http://www.runoob.com/w3cnote/nginx-install-and-config.html)  
 
 
