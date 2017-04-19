@@ -21,6 +21,7 @@
 2). [超键、候选键、主键、外键](http://blog.csdn.net/liushuijinger/article/details/12832017)  
 3). [优化Mysql数据库的8个方法](http://www.jb51.net/article/42884.htm)  
 4). [MySQL百万级数据库优化方案（重要）](http://blog.csdn.net/luyee2010/article/details/8309806)  
+5). [20个经典面试题，全部答对月薪10k+](http://blog.csdn.net/u013252072/article/details/52912385)  
 
 
 
