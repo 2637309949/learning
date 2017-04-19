@@ -6,5 +6,6 @@
 5). [Apache与Nginx的优缺点比较](http://www.cnblogs.com/huangye-dream/p/3550328.html)  
 6). [基于nginxd的Tengine开源项目](http://tengine.taobao.org/)  
 7). [Nginx入门教程](http://www.linuxidc.com/Linux/2016-12/138481.htm)  
+8). [Nginx中文参考手册,教程](http://shouce.jb51.net/nginx/index.html)  
 
 
