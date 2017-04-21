@@ -1,6 +1,7 @@
 #### 1.配置
 1). [Debian 8.2 安装docker](http://blog.csdn.net/gaisylly/article/details/50113791)  
 2). [国内镜像拉取和镜像加速registry-mirrors配置修改](http://blog.csdn.net/u014231523/article/details/61197945)  
+3). [Docker CE安装及配置国内镜像加速教程](http://www.bubuko.com/infodetail-1971756.html)  
 #### 2.命令
 1). [Docker命令行探秘](http://www.infoq.com/cn/articles/docker-command-line-quest)  
 2). [常用docker命令](http://blog.csdn.net/wsscy2004/article/details/25878363)  
