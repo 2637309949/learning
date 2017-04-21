@@ -6,6 +6,8 @@
 2). [常用docker命令](http://blog.csdn.net/wsscy2004/article/details/25878363)  
 3). [登录容器的注意事项](http://blog.csdn.net/u013571243/article/details/51757443)  
 #### 3.Dockerfile
+1). [Dockerfile详解](http://blog.csdn.net/wsscy2004/article/details/25878223)  
+2). [如何使用Dockerfile构建镜像](http://blog.csdn.net/qinyushuang/article/details/43342553)  
 #### 4.常用docker镜像
 1). [搭建redmine--项目管理软件](https://github.com/sameersbn/docker-redmine)  
 #### 5.结构分析
