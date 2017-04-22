@@ -6,6 +6,7 @@
 3). [创建索引](http://www.runoob.com/mongodb/mongodb-indexing.html)  
 #### 3.基本操作
 1). [查询文档](http://www.runoob.com/mongodb/mongodb-query.html)  
+2). [聚合](http://www.runoob.com/mongodb/mongodb-aggregate.html)  
 #### 4.高级部分
 1). [副本集](http://www.runoob.com/mongodb/mongodb-replication.html)  
 2). [理解水平扩展和垂直扩展](http://www.tuicool.com/articles/BvIRr27)  
