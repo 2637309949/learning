@@ -11,6 +11,7 @@
 1). [副本集](http://www.runoob.com/mongodb/mongodb-replication.html)  
 2). [理解水平扩展和垂直扩展](http://www.tuicool.com/articles/BvIRr27)  
 3). [分片](http://www.runoob.com/mongodb/mongodb-sharding.html)  
+4). [监控](http://www.runoob.com/mongodb/mongodb-mongostat-mongotop.html)  
 
 
 
