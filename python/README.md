@@ -5,3 +5,5 @@
 1). [pyc格式解析](http://www.jianshu.com/p/03d81eb9ac9b)  
 #### 3.Django文档
 1). [Django 文档](http://python.usyiyi.cn/django/index.html)  
+#### 4.py2与py3区分
+1). [详解python2 和 python3的区别](http://www.cnblogs.com/qytang/p/5604282.html)  
