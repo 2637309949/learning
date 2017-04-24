@@ -10,11 +10,12 @@
 1). [JavaScript Style Guide](https://github.com/airbnb/javascript)  
 2). [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb)  
 #### 4.模块化规范
-1). [Modules 官网讲解整个load过程](https://github.com/aihttp://nodejs.cn/api/en/modules.html)  
+1). [Modules 官网讲解整个load过程](http://nodejs.cn/api/en/modules.html)  
 2). [缓存机制（重要）](http://nodejs.cn/api/en/modules.html#modules_caching)  
 3). [导入循环](http://nodejs.cn/api/en/modules.html#modules_cycles)  
 4). [模块包装器](http://nodejs.cn/api/modules.html#modules_the_module_wrapper)  
 5). [exports 快捷方式（重要）](http://nodejs.cn/api/modules.html#modules_exports_shortcut)  
+6). [CommonJS规范](http://javascript.ruanyifeng.com/nodejs/module.html)  
 #### 5.高级对象
 1). [Stream接口](http://javascript.ruanyifeng.com/nodejs/stream.html)  
 2). [querystring 模块](http://javascript.ruanyifeng.com/nodejs/querystring.html)  
