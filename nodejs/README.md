@@ -29,6 +29,8 @@
 2). [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)  
 #### 8.部署管理
 1). [Packaging](https://www.tutorialspoint.com/nodejs/nodejs_packaging.htm)  
+#### 9.logs日志记录
+1). [winston](https://github.com/winstonjs/winston)  
 
 
 
