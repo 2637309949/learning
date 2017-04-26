@@ -4,6 +4,12 @@
 #### 3.无监督学习
 #### 4.数据降维
 #### 5.深度学习
+#### 6.机器学习scala篇
+1). [smile for scala](http://haifengl.github.io/smile/)  
+#### 7.机器学习python篇
+#### 8.机器学习其他资源
+1). [机器学习相关的概括](http://haifengl.github.io/smile/overview.html)  
+
 
 
 
