@@ -13,7 +13,8 @@
 2). [理解水平扩展和垂直扩展](http://www.tuicool.com/articles/BvIRr27)  
 3). [分片](http://www.runoob.com/mongodb/mongodb-sharding.html)  
 4). [监控](http://www.runoob.com/mongodb/mongodb-mongostat-mongotop.html)  
-
+#### 5.事务处理
+1). [五个解决方案让MongoDB拥有RDBMS的鲁棒性事务（重要**）](http://www.lupaworld.com/article-241726-1.html)  
 
 
 
