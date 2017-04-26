@@ -9,7 +9,7 @@
 1). [理解 JavaScript 作用域和作用域链](http://www.cnblogs.com/lhb25/archive/2011/09/06/javascript-scope-chain.html)  
 2). [详解JavaScript作用域](http://blog.csdn.net/liuyan19891230/article/details/50417235)  
 3). [Javascript的this用法](http://www.ruanyifeng.com/blog/2010/04/using_this_keyword_in_javascript.html)  
-4). [常见笔试或面试题](http://www.360doc.com/content/13/1105/19/9200790_326857427.shtml)  
+4). [VO常见笔试或面试题](http://www.360doc.com/content/13/1105/19/9200790_326857427.shtml)  
 #### 4.面向对象编程
 1). [javascript中创建对象的几种方式](http://blog.csdn.net/dinglang_2009/article/details/7913866)  
 2). [js创建对象的方法汇总](http://www.jb51.net/article/77676.htm)  
@@ -43,7 +43,6 @@
 1). [Angular 2 中文资料汇总(文章，视频，教程)](https://github.com/kittencup/angular2-learning-cn)  
 2). [Angular2官网中文版](https://angular.cn/)  
 #### 13.react学习资料
-
 #### 14.设计模式的实现
 1). [单例模式](http://www.ceaze.com/archives/198.html)  
 2). [代理模式](http://www.ceaze.com/archives/210.html)  
