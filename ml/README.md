@@ -3,6 +3,7 @@
 2). [kNN(K-Nearest Neighbor)最邻近规则分类](http://blog.csdn.net/xlm289348/article/details/8876353)  
 3). [线性判别分析LDA详解](http://www.cnblogs.com/engineerLF/p/5393119.html)  
 4). [AdaBoost--从原理到实现](http://blog.csdn.net/dark_scope/article/details/14103983)  
+5). [GBDT(Gradient Boosting Decision Tree)](http://blog.csdn.net/dark_scope/article/details/24863289)  
 #### 2.回归算法
 #### 3.无监督学习
 #### 4.数据降维
