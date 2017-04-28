@@ -2,6 +2,7 @@
 1). [a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm](https://saravananthirumuruganathan.wordpress.com/2010/05/17/a-detailed-introduction-to-k-nearest-neighbor-knn-algorithm/)  
 2). [kNN(K-Nearest Neighbor)最邻近规则分类](http://blog.csdn.net/xlm289348/article/details/8876353)  
 3). [线性判别分析LDA详解](http://www.cnblogs.com/engineerLF/p/5393119.html)  
+4). [AdaBoost--从原理到实现](http://blog.csdn.net/dark_scope/article/details/14103983)  
 #### 2.回归算法
 #### 3.无监督学习
 #### 4.数据降维
