@@ -4,6 +4,7 @@
 3). [线性判别分析LDA详解](http://www.cnblogs.com/engineerLF/p/5393119.html)  
 4). [AdaBoost--从原理到实现](http://blog.csdn.net/dark_scope/article/details/14103983)  
 5). [GBDT(Gradient Boosting Decision Tree)](http://blog.csdn.net/dark_scope/article/details/24863289)  
+6). [浅谈 Adaboost 算法](http://blog.csdn.net/haidao2009/article/details/7514787)  
 #### 2.回归算法
 #### 3.无监督学习
 #### 4.数据降维
