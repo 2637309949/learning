@@ -9,6 +9,7 @@
 #### 7.机器学习python篇
 #### 8.机器学习其他资源
 1). [机器学习相关的概括](http://haifengl.github.io/smile/overview.html)  
+2). [Introduction to Big Data](https://github.com/haifengl/bigdata)  
 
 
 
