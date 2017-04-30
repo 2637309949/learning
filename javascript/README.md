@@ -46,6 +46,7 @@
 [Angular 2 中文资料汇总(文章，视频，教程)](https://github.com/kittencup/angular2-learning-cn)  
 [Angular2官网中文版](https://angular.cn/)  
 [生命周期钩子](https://angular.cn/docs/ts/latest/guide/lifecycle-hooks.html)  
+[模板语法](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#ngSwitch)  
 #### react学习资料
 #### 设计模式的实现
 [单例模式](http://www.ceaze.com/archives/198.html)  
