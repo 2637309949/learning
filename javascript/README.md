@@ -41,6 +41,7 @@
 [Proxy（重要）](http://es6.ruanyifeng.com/#docs/proxy)  
 #### TS语法
 [规范](https://www.tslang.cn/docs/handbook/declaration-files/do-s-and-don-ts.html)  
+[快速上手](https://www.tslang.cn/docs/tutorial.html)  
 #### angular2学习资料
 [Angular 2 中文资料汇总(文章，视频，教程)](https://github.com/kittencup/angular2-learning-cn)  
 [Angular2官网中文版](https://angular.cn/)  
