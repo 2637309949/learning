@@ -50,6 +50,7 @@
 [attribute、class 和 style 绑定](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#other-bindings)  
 [模板引用变量 ( #var )](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#ref-vars)  
 [双向数据绑定 ( [(...)] )](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#two-way)  
+[内置属性型指令](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#attribute-directives)  
 [输入输出属性 ( @Input 和 @Output )](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#inputs-outputs)  
 [awesome-angular-components](https://github.com/brillout/awesome-angular-components)  
 [Introduction to Redux and Angular2（推荐）](https://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/)  
