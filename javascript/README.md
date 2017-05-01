@@ -47,6 +47,8 @@
 [Angular2官网中文版](https://angular.cn/)  
 [生命周期钩子（最后的依赖注入需要留意**）](https://angular.cn/docs/ts/latest/guide/lifecycle-hooks.html)  
 [模板语法](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#ngSwitch)  
+[模板引用变量 ( #var )](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#ref-vars)  
+[输入输出属性 ( @Input 和 @Output )](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#inputs-outputs)  
 [awesome-angular-components](https://github.com/brillout/awesome-angular-components)  
 [Introduction to Redux and Angular2（推荐）](https://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/)  
 #### react学习资料
