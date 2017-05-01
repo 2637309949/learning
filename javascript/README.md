@@ -47,6 +47,7 @@
 [Angular2官网中文版](https://angular.cn/)  
 [生命周期钩子（最后的依赖注入需要留意**）](https://angular.cn/docs/ts/latest/guide/lifecycle-hooks.html)  
 [模板语法](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#ngSwitch)  
+[awesome-angular-components](https://github.com/brillout/awesome-angular-components)  
 #### react学习资料
 #### 设计模式的实现
 [单例模式](http://www.ceaze.com/archives/198.html)  
