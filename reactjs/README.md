@@ -15,11 +15,16 @@
 [material ui](http://www.material-ui.com/)  
 [ant.design](https://ant.design/index-cn)  
 [mobile.ant.design](https://mobile.ant.design/index-cn)  
+[dvajs/dva](https://github.com/dvajs/dva)  
 #### 综合性资料
 [A Comprehensive Guide to Test-First Development with Redux, React, and Immutable](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)  
 [implementing-security-in-react-with-react-router](http://www.aaron-powell.com/posts/2015-06-08-implementing-security-in-react-with-react-router.html)  
 [角色投票应用](http://www.kancloud.cn/kancloud/create-voting-app/63981)  
-[awesome-react-boilerplates](https://habd.as/awesome-react-boilerplates/)  
+[awesome-react-boilerplates**](https://habd.as/awesome-react-boilerplates/)  
+[awesome-react**](https://github.com/enaqx/awesome-react)  
+[Navigation For React](https://react.rocks/tag/Navigation)  
+[dva 中文教程](https://github.com/dvajs/dva-docs/tree/master/v1/zh-cn/tutorial)  
+
 
 
 
