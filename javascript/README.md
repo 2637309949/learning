@@ -55,7 +55,8 @@
 [输入输出属性 ( @Input 和 @Output )](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#inputs-outputs)  
 [awesome-angular-components](https://github.com/brillout/awesome-angular-components)  
 [Introduction to Redux and Angular2（推荐）](https://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/)  
-[Get started with Ionic Framework](http://ionicframework.com/getting-started/)  
+[Get started with Ionic Framework（APP UI LIB）](http://ionicframework.com/getting-started/)  
+[DirectiveMetadata（如何编写指令，对于指令如ngModel是如何操作的）](https://angular.cn/docs/ts/latest/api/core/index/DirectiveMetadata-class.html#!#exportAs)  
 #### react学习资料
 #### 设计模式的实现
 [单例模式](http://www.ceaze.com/archives/198.html)  
