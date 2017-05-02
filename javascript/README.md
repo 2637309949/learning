@@ -57,6 +57,8 @@
 [Introduction to Redux and Angular2（推荐）](https://julienrenaux.fr/2016/08/03/introduction-to-redux-and-angular2/)  
 [Get started with Ionic Framework（APP UI LIB）](http://ionicframework.com/getting-started/)  
 [DirectiveMetadata（如何编写指令，对于指令如ngModel是如何操作的）](https://angular.cn/docs/ts/latest/api/core/index/DirectiveMetadata-class.html#!#exportAs)  
+[ComponentMetadata（理解组件被实例后的背后过程）](https://angular.cn/docs/ts/latest/api/core/index/ComponentMetadata-class.html)  
+
 #### react学习资料
 #### 设计模式的实现
 [单例模式](http://www.ceaze.com/archives/198.html)  
