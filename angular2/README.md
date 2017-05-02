@@ -9,6 +9,7 @@
 [内置属性型指令](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#attribute-directives)  
 [内置结构型指令](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#structural-directives)  
 [输入输出属性 ( @Input 和 @Output )](https://angular.cn/docs/ts/latest/guide/template-syntax.html#!#inputs-outputs)  
+[animations](https://angular.cn/docs/ts/latest/api/core/index/ComponentMetadata-class.html)  
 #### 深入理解
 [DirectiveMetadata（**如何编写指令，对于指令如ngModel是如何操作的**）](https://angular.cn/docs/ts/latest/api/core/index/DirectiveMetadata-class.html#!#exportAs)  
 [ComponentMetadata（**理解组件被实例后的背后过程**）](https://angular.cn/docs/ts/latest/api/core/index/ComponentMetadata-class.html)  
