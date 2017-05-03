@@ -31,6 +31,7 @@
 [Node.js几道面试题](https://segmentfault.com/a/1190000008037987)  
 #### 部署管理
 [Packaging](https://www.tutorialspoint.com/nodejs/nodejs_packaging.htm)  
+[Node.js的cluster模块**PM2](http://www.cnblogs.com/jaxu/p/5193643.html)  
 #### logs日志记录
 [winston](https://github.com/winstonjs/winston)  
 #### 其他
