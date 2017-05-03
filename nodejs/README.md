@@ -28,6 +28,7 @@
 #### 单元测试
 [Nodejs单元测试小结](https://segmentfault.com/a/1190000002921481)  
 [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)  
+[Node.js几道面试题](https://segmentfault.com/a/1190000008037987)  
 #### 部署管理
 [Packaging](https://www.tutorialspoint.com/nodejs/nodejs_packaging.htm)  
 #### logs日志记录
