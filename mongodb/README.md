@@ -14,7 +14,7 @@
 [理解水平扩展和垂直扩展](http://www.tuicool.com/articles/BvIRr27)  
 [分片](http://www.runoob.com/mongodb/mongodb-sharding.html)  
 [监控](http://www.runoob.com/mongodb/mongodb-mongostat-mongotop.html)  
-#### 事务处理
+#### 事务处理（**重要）
 [MongoDB新存储引擎WiredTiger实现(事务篇)](http://www.open-open.com/lib/view/open1465268354416.html)  
 [五个解决方案让MongoDB拥有RDBMS的鲁棒性事务（重要**）](http://www.lupaworld.com/article-241726-1.html)  
 [mongodb-transaction-example](https://github.com/rystsov/mongodb-transaction-example)  
