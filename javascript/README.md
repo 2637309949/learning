@@ -1,3 +1,5 @@
+#### 基础
+[JS按位非(~)运算符与~~运算符的理解分析](http://www.jb51.net/article/27852.htm)  
 #### JS核心
 [JavaScript核心（晋级高手必读篇）](http://www.ceaze.com/archives/168.html)  
 [执行上下文（Execution Contexts）](http://www.ceaze.com/archives/170.html)  
