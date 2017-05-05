@@ -35,11 +35,10 @@
 #### logs日志记录
 [winston](https://github.com/winstonjs/winston)  
 #### Express
-###### **模板学习1 START**
-[node-express-mongoose-demo（模板应用学习）](https://github.com/madhums/node-express-mongoose-demo)  
-[node-express-mongoose（模板学习）](https://github.com/madhums/node-express-mongoose)  
-[node-express-mongoose（模板构造学习）](https://github.com/madhums/node-express-mongoose/wiki)  
-###### **模板学习1 END** 
+> **模板学习1**  
+> [node-express-mongoose-demo（模板应用学习）](https://github.com/madhums/node-express-mongoose-demo)  
+> [node-express-mongoose（模板学习）](https://github.com/madhums/node-express-mongoose)  
+> [node-express-mongoose（模板构造学习）](https://github.com/madhums/node-express-mongoose/wiki)
 
 #### 其他
 [将 Npm 的源替换成淘宝的源](http://www.thinksaas.cn/topics/0/400/400616.html)  
