@@ -35,11 +35,12 @@
 #### logs日志记录
 [winston](https://github.com/winstonjs/winston)  
 #### Express
-> **模板学习1**  
+> **模板学习1（里面的规范值得学习）**  
 > [node-express-mongoose-demo（模板应用学习）](https://github.com/madhums/node-express-mongoose-demo)  
 > [node-express-mongoose（模板学习）](https://github.com/madhums/node-express-mongoose)  
 > [node-express-mongoose（模板构造学习）](https://github.com/madhums/node-express-mongoose/wiki)
-
+> **模板学习2**  
+> [mean.io （Mongo, Express, Angular, Node）](http://mean.io/)  
 #### 其他
 [将 Npm 的源替换成淘宝的源](http://www.thinksaas.cn/topics/0/400/400616.html)  
 [Visual Studio Code使用typings拓展自动补全功能](http://www.cnblogs.com/sumg/p/5664748.html)  
