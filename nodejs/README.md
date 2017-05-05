@@ -34,7 +34,7 @@
 [Node.js的cluster模块**PM2](http://www.cnblogs.com/jaxu/p/5193643.html)  
 #### logs日志记录
 [winston](https://github.com/winstonjs/winston)  
-#### Express
+#### Express框架
 **模板学习1（里面的规范值得学习）**  
 > [node-express-mongoose-demo（模板应用学习）](https://github.com/madhums/node-express-mongoose-demo)  
 > [node-express-mongoose（模板学习）](https://github.com/madhums/node-express-mongoose)  
