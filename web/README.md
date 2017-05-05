@@ -5,6 +5,9 @@
 #### CSRF
 [Http跨站点请求伪造解决方案](http://blog.csdn.net/hj7jay/article/details/52084425)  
 [前端必备HTTP技能之跨站请求伪造(CSRF)技术详解](http://www.jianshu.com/p/d928fba78cda)  
+#### 认证
+
 #### 其他
 [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)  
+[CS 和 BS 的区别和优缺点](http://www.cnblogs.com/scnuyz/p/5808808.html)  
 
