@@ -8,7 +8,7 @@
 #### API接口安全
 [API接口签名校验，如何安全保存appsecret？](https://www.zhihu.com/question/40855191)  
 [API接口签名验证](http://www.jianshu.com/p/d47da77b6419)  
-[详解Google Authenticator工作原理](http://www.csdn.net/article/2014-09-23/2821808-Google-Authenticator)  
+[详解Google Authenticator工作原理TOTP](http://www.csdn.net/article/2014-09-23/2821808-Google-Authenticator)  
 #### 其他
 [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)  
 [CS 和 BS 的区别和优缺点](http://www.cnblogs.com/scnuyz/p/5808808.html)  
