@@ -16,6 +16,7 @@
 [序列使用](http://www.runoob.com/mysql/mysql-using-sequences.html)  
 #### 性能技巧
 [元数据](http://www.runoob.com/mysql/mysql-database-info.html)  
+[mysql性能优化教程](http://www.cnblogs.com/shengjie123/p/5692515.html)  
 #### 查询语句
 [MySQL查询语句练习题](http://blog.csdn.net/zhaoliang831214/article/details/48244139)  
 #### 面试题
