@@ -6,10 +6,9 @@
   
 模板学习2  
 > [mean.io （Mongo, Express, Angular, Node）](http://mean.io/)  
-
-
-
-
+#### Koa框架
+#### 认证框架
+[passportjs](http://passportjs.org/docs/login)  
 
 
 
