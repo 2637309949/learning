@@ -38,7 +38,7 @@
 [co 函数库](http://www.ruanyifeng.com/blog/2015/05/co.html)  
 [tj/co](https://github.com/tj/co)  
 #### 应用开发资源
-[web](https://github.com/2637309949/link-for-learning/blob/master/nodejs/web/README.md)  
+[WEB资源](https://github.com/2637309949/link-for-learning/blob/master/nodejs/web/README.md)  
 #### 其他
 [将 Npm 的源替换成淘宝的源](http://www.thinksaas.cn/topics/0/400/400616.html)  
 [Visual Studio Code使用typings拓展自动补全功能](http://www.cnblogs.com/sumg/p/5664748.html)  
