@@ -34,17 +34,11 @@
 [Node.js的cluster模块**PM2](http://www.cnblogs.com/jaxu/p/5193643.html)  
 #### logs日志记录
 [winston](https://github.com/winstonjs/winston)  
-#### Express框架
-**模板学习1（里面的规范值得学习）**  
-> [node-express-mongoose-demo（模板应用学习）](https://github.com/madhums/node-express-mongoose-demo)  
-> [node-express-mongoose（模板学习）](https://github.com/madhums/node-express-mongoose)  
-> [node-express-mongoose（模板构造学习）](https://github.com/madhums/node-express-mongoose/wiki)  
-  
-**模板学习2**  
-> [mean.io （Mongo, Express, Angular, Node）](http://mean.io/)  
 #### 异步流程控制
 [co 函数库](http://www.ruanyifeng.com/blog/2015/05/co.html)  
 [tj/co](https://github.com/tj/co)  
+#### 应用开发资源
+[web](https://github.com/2637309949/link-for-learning/blob/master/nodejs/web/README.md)  
 #### 其他
 [将 Npm 的源替换成淘宝的源](http://www.thinksaas.cn/topics/0/400/400616.html)  
 [Visual Studio Code使用typings拓展自动补全功能](http://www.cnblogs.com/sumg/p/5664748.html)  
