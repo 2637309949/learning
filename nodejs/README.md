@@ -35,9 +35,10 @@
 #### logs日志记录
 [winston](https://github.com/winstonjs/winston)  
 #### 异步流程控制
-[co 函数库](http://www.ruanyifeng.com/blog/2015/05/co.html)  
+[co 原理](http://www.ruanyifeng.com/blog/2015/05/co.html)  
 [tj/co](https://github.com/tj/co)  
 [async](http://caolan.github.io/async/)  
+[nodejs异步控制「co、async、Q 、『es6原生promise』、then.js、bluebird」有何优缺点？](https://www.zhihu.com/question/25413141)  
 #### 应用开发资源
 [WEB资源](https://github.com/2637309949/link-for-learning/blob/master/nodejs/web/README.md)  
 #### 其他
