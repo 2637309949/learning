@@ -37,6 +37,7 @@
 #### 异步流程控制
 [co 函数库](http://www.ruanyifeng.com/blog/2015/05/co.html)  
 [tj/co](https://github.com/tj/co)  
+[async](http://caolan.github.io/async/)  
 #### 应用开发资源
 [WEB资源](https://github.com/2637309949/link-for-learning/blob/master/nodejs/web/README.md)  
 #### 其他
