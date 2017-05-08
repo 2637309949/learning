@@ -9,6 +9,8 @@
 #### 基本操作
 [查询文档](http://www.runoob.com/mongodb/mongodb-query.html)  
 [聚合](http://www.runoob.com/mongodb/mongodb-aggregate.html)  
+#### 查询操作
+[operator/query](https://docs.mongodb.com/manual/reference/operator/query/)  
 #### 高级部分
 [副本集](http://www.runoob.com/mongodb/mongodb-replication.html)  
 [理解水平扩展和垂直扩展](http://www.tuicool.com/articles/BvIRr27)  
