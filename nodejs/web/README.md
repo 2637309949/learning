@@ -9,6 +9,11 @@
 #### Koa框架
 #### 认证框架
 [passportjs](http://passportjs.org/docs/login)  
+#### Validator
+[express-form（一维表单）](https://github.com/dandean/express-form)  
+[express-validator（一维表单）](https://www.npmjs.com/package/express-validator)  
+[epoberezkin/ajv（适合前后分离-多嵌套json对象）](https://github.com/epoberezkin/ajv)  
+[tdegrunt/jsonschema（适合前后分离-多嵌套json对象）](https://github.com/tdegrunt/jsonschema)  
 
 
 
