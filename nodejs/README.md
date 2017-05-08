@@ -1,6 +1,7 @@
 #### 事件驱动
 [nodejs 异步I/O和事件驱动](http://www.open-open.com/lib/view/open1463877785001.html)  
 [Node.js中的事件驱动编程详解（不详细）](http://www.jb51.net/article/53812.htm)  
+[Nodejs的事件驱动模型（**推荐**）](http://www.tuicool.com/articles/6FjM3ai)  
 [Node.js机制及原理理解初步](http://blog.csdn.net/leftfist/article/details/41891407)  
 [多进程单线程模型与单进程多线程模型之争](http://blog.csdn.net/hzrandd/article/details/51699067)  
 #### 加密算法
