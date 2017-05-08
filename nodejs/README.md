@@ -25,6 +25,8 @@
 #### 面试题
 [node.js面试题大全](http://www.cnblogs.com/meteorcn/p/node_mianshiti_interview_question.html)  
 [10个常见的Node.js面试题](http://www.admin10000.com/document/6715.html)  
+[nodejs面试](http://www.cnblogs.com/suoking/p/5941247.html)  
+[node.js的总结-可以应付bat的社招面试](http://www.cnblogs.com/chaojidan/p/4126894.html)  
 #### 单元测试
 [Nodejs单元测试小结](https://segmentfault.com/a/1190000002921481)  
 [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)  
