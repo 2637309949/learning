@@ -28,7 +28,7 @@
 [mongodb-transaction（memdb，redis，mongodb）（支持分片）](https://www.npmjs.com/package/mongodb-transaction)  
 #### 技巧
 [MongoDB使用小结：一些不常见的经验分享（推荐）](http://www.cnblogs.com/cswuyg/p/4355948.html)  
-
+[Mongodb性能调优 -性能优化建议](http://blog.csdn.net/happy_jijiawei/article/details/53737858)  
 
 
 
