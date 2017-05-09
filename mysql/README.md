@@ -26,6 +26,11 @@
 [MySQL百万级数据库优化方案（重要）](http://blog.csdn.net/luyee2010/article/details/8309806)  
 [20个经典面试题，全部答对月薪10k+](http://blog.csdn.net/u013252072/article/details/52912385)  
 [收集的MySQL的面试题](http://www.360doc.com/content/16/0417/16/32369147_551388666.shtml)  
+#### SQL集群
+[MySQL集群搭建详解](http://database.51cto.com/art/201505/475376_all.htm)  
+[mysql集群性能和效率相对于单机mysql来说优势体现在哪些方面?](http://www.oschina.net/question/1251494_143780?sort=time&p=1)  
+[mysql-proxy](http://www.iteye.com/topic/1132688)  
+
 
 
 
