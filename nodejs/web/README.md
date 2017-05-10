@@ -14,8 +14,9 @@
 [express-validator（一维表单）](https://www.npmjs.com/package/express-validator)  
 [epoberezkin/ajv（适合前后分离-多嵌套json对象）](https://github.com/epoberezkin/ajv)  
 [tdegrunt/jsonschema（适合前后分离-多嵌套json对象）](https://github.com/tdegrunt/jsonschema)  
+#### 测试框架
+[test-a-node-restful-api-with-mocha-and-chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)  
 #### 其他
 [Node. js Web框架性能压测大比拼: koa 2 vs koa 1 vs express](http://www.0791quanquan.com/news_keji/topic_740214/)  
 [［译］Node.js 框架比较: Express vs. Koa vs. Hapi](http://ourjs.com/detail/5490db1c8a34fa320400000e)  
-
 
