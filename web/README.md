@@ -8,6 +8,8 @@
 #### API接口安全
 [API接口签名校验，如何安全保存appsecret？](https://www.zhihu.com/question/40855191)  
 [API接口签名验证](http://www.jianshu.com/p/d47da77b6419)  
+[表单数据的加密传输](http://blog.csdn.net/lj_hero/article/details/5969871)  
+[用RSA加密实现Web登录密码加密传输](http://blog.csdn.net/alonesword/article/details/11821519)  
 [详解Google Authenticator工作原理TOTP](http://www.csdn.net/article/2014-09-23/2821808-Google-Authenticator)  
 #### OAuth
 [OAuth 1.0](http://jamie-wang.iteye.com/blog/1182161)  
