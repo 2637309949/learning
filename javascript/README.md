@@ -36,11 +36,6 @@
 [grunt官方入门](https://gruntjs.com/getting-started)  
 [Introduction to Webpack with practical examples](https://julienrenaux.fr/2015/03/30/introduction-to-webpack-with-practical-examples/)   
 [The-ultimate-webpack-setup](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup)    
-#### ES6语法
-[ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/)  
-[ES6模块系统和commonJS的区分（重要）](http://es6.ruanyifeng.com/#docs/module-loader)  
-[Reflect（重要）](http://es6.ruanyifeng.com/#docs/reflect)  
-[Proxy（重要）](http://es6.ruanyifeng.com/#docs/proxy)  
 #### TS语法
 [规范](https://www.tslang.cn/docs/handbook/declaration-files/do-s-and-don-ts.html)  
 [快速上手](https://www.tslang.cn/docs/tutorial.html)  
