@@ -9,11 +9,16 @@
 #### Koa框架
 #### 认证框架
 [passportjs](http://passportjs.org/docs/login)  
-#### Validator
+#### 数据校验
 [express-form（一维表单）](https://github.com/dandean/express-form)  
 [express-validator（一维表单）](https://www.npmjs.com/package/express-validator)  
 [epoberezkin/ajv（适合前后分离-多嵌套json对象）](https://github.com/epoberezkin/ajv)  
 [tdegrunt/jsonschema（适合前后分离-多嵌套json对象）](https://github.com/tdegrunt/jsonschema)  
+#### mongoosejs驱动
+[mongoosejs doc](http://mongoosejs.com/docs/)  
+[validation（The unique Option is Not a Validator**很多需要注意的地方）](http://mongoosejs.com/docs/validation.html)  
+[Creating from ES6 Classes Using loadClass()（重点**）](http://mongoosejs.com/docs/advanced_schemas.html)  
+
 #### 测试框架
 [test-a-node-restful-api-with-mocha-and-chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)  
 #### 高并发解决方案
