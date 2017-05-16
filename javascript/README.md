@@ -36,10 +36,6 @@
 [grunt官方入门](https://gruntjs.com/getting-started)  
 [Introduction to Webpack with practical examples](https://julienrenaux.fr/2015/03/30/introduction-to-webpack-with-practical-examples/)   
 [The-ultimate-webpack-setup](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup)    
-#### TS语法
-[规范](https://www.tslang.cn/docs/handbook/declaration-files/do-s-and-don-ts.html)  
-[快速上手](https://www.tslang.cn/docs/tutorial.html)  
-#### react学习资料
 #### 设计模式的实现
 [单例模式](http://www.ceaze.com/archives/198.html)  
 [代理模式](http://www.ceaze.com/archives/210.html)  
