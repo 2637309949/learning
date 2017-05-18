@@ -2,7 +2,6 @@
 [JavaScript 参考文档](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)  
 [ECMAScript 6 入门](http://es6.ruanyifeng.com/#docs/)  
 [可迭代协议](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Iteration_protocols)  
-
 #### 模块
 [ES6模块系统和commonJS的区分（重要）](http://es6.ruanyifeng.com/#docs/module-loader)  
 #### 类封装
