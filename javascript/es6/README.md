@@ -12,6 +12,8 @@
 #### 高级类
 [Reflect（重要）](http://es6.ruanyifeng.com/#docs/reflect)  
 [Proxy（重要）](http://es6.ruanyifeng.com/#docs/proxy)  
+#### 其他
+[严格模式（推荐**）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Strict_mode)  
 
 
 
