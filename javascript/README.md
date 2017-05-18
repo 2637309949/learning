@@ -2,6 +2,9 @@
 [JS按位非(~)运算符与~~运算符的理解分析](http://www.jb51.net/article/27852.htm)  
 [数据类型和数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)  
 [属性的可枚举性和所有权](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)  
+#### 内置对象
+[Math](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math)  
+[Date](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Date)  
 #### JS核心
 [JavaScript核心（晋级高手必读篇）](http://www.ceaze.com/archives/168.html)  
 [执行上下文（Execution Contexts）](http://www.ceaze.com/archives/170.html)  
