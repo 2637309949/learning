@@ -2,6 +2,7 @@
 [规范](https://www.tslang.cn/docs/handbook/declaration-files/do-s-and-don-ts.html)  
 [快速上手](https://www.tslang.cn/docs/tutorial.html)  
 [typescript](https://basarat.gitbooks.io/typescript/)  
+[declarationspaces](https://basarat.gitbooks.io/typescript/docs/project/declarationspaces.html)  
 #### 模块
 [module-resolution](https://www.tslang.cn/docs/handbook/module-resolution.html)  
 #### 类型
