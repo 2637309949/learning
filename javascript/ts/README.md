@@ -16,6 +16,7 @@
 [typings](https://github.com/typings/typings)  
 [migrating-from-javascript（重要**）](https://www.tslang.cn/docs/handbook/migrating-from-javascript.html)  
 [TypeScript中API命名重复的解决方法](http://blog.csdn.net/genglei01/article/details/52458273)  
+[arrow-functions（Tip: Arrow functions and inheritance）](https://basarat.gitbooks.io/typescript/docs/arrow-functions.html)  
 
 
 
