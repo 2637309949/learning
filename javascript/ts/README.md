@@ -12,8 +12,9 @@
 #### 类型检测
 [type-compatibility](https://www.tslang.cn/docs/handbook/type-compatibility.html)  
 [index-signatures](https://basarat.gitbooks.io/typescript/docs/types/index-signatures.html)  
-#### 使用TS
-[nodejs](https://basarat.gitbooks.io/typescript/docs/quick/nodejs.html)  
+#### 配置环境
+[nodejs（重要**）](https://basarat.gitbooks.io/typescript/docs/quick/nodejs.html)  
+[browser（重要**）](https://basarat.gitbooks.io/typescript/docs/quick/browser.html)  
 #### 其他知识
 [typescript中的工具 tsd（已经废弃）](http://www.cnblogs.com/HeJason/p/5400558.html)  
 [typings](https://github.com/typings/typings)  
