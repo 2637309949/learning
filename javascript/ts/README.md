@@ -3,6 +3,8 @@
 [快速上手](https://www.tslang.cn/docs/tutorial.html)  
 [typescript](https://basarat.gitbooks.io/typescript/)  
 [declarationspaces](https://basarat.gitbooks.io/typescript/docs/project/declarationspaces.html)  
+[type-compatibility](https://basarat.gitbooks.io/typescript/docs/types/type-compatibility.html)  
+
 #### 模块
 [module-resolution](https://www.tslang.cn/docs/handbook/module-resolution.html)  
 #### 类型
