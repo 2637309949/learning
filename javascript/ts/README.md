@@ -24,6 +24,7 @@
 [TypeScript中API命名重复的解决方法](http://blog.csdn.net/genglei01/article/details/52458273)  
 [arrow-functions（Tip: Arrow functions and inheritance）](https://basarat.gitbooks.io/typescript/docs/arrow-functions.html)  
 [lib.d.ts](https://basarat.gitbooks.io/typescript/docs/types/lib.d.ts.html)  
+[defaultIsBad](https://basarat.gitbooks.io/typescript/docs/tips/defaultIsBad.html)  
 
 
 
