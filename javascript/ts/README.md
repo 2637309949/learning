@@ -19,6 +19,7 @@
 [browser（重要**）](https://basarat.gitbooks.io/typescript/docs/quick/browser.html)  
 #### 实际应用
 [TypeScript + Express + Node.js](http://brianflove.com/2016/03/29/typescript-express-node-js/)  
+[TypeScript-template（重要**详细地说明很多实战内容）](https://www.typescriptlang.org/samples/)  
 [typescript-node-starter（重要**详细地说明很多实战内容）](https://github.com/Microsoft/TypeScript-Node-Starter#typescript-node-starter)  
 [dts-gen](https://github.com/Microsoft/dts-gen)  
 #### 其他知识
