@@ -53,6 +53,7 @@
 [初探传说中的setImmediate函数](http://www.cnblogs.com/fsjohnhuang/p/4151595.html)  
 [利用Travis CI 让你的github项目持续构建(Node.js为例)](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)  
 [Test and Deploy with Confidence](https://travis-ci.org/)  
+[yarn（Fast, reliable, and secure dependency management）](https://github.com/yarnpkg/yarn)  
 
 
 
