@@ -19,7 +19,7 @@
 [browser（重要**）](https://basarat.gitbooks.io/typescript/docs/quick/browser.html)  
 #### 实际应用
 [TypeScript + Express + Node.js](http://brianflove.com/2016/03/29/typescript-express-node-js/)  
-[typescript-node-starter](https://github.com/Microsoft/TypeScript-Node-Starter#typescript-node-starter)  
+[typescript-node-starter（重要**）](https://github.com/Microsoft/TypeScript-Node-Starter#typescript-node-starter)  
 [dts-gen](https://github.com/Microsoft/dts-gen)  
 #### 其他知识
 [typescript中的工具 tsd（已经废弃）](http://www.cnblogs.com/HeJason/p/5400558.html)  
