@@ -51,6 +51,10 @@
 [Visual Studio Code使用typings拓展自动补全功能](http://www.cnblogs.com/sumg/p/5664748.html)  
 [Node.js框架之express与koa对比分析](https://yq.aliyun.com/articles/3062)  
 [初探传说中的setImmediate函数](http://www.cnblogs.com/fsjohnhuang/p/4151595.html)  
+[利用Travis CI 让你的github项目持续构建(Node.js为例)](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)  
+[Test and Deploy with Confidence](https://travis-ci.org/)  
+
+
 
 
 
