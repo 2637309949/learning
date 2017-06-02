@@ -18,7 +18,6 @@
 [mongoosejs doc](http://mongoosejs.com/docs/)  
 [validation（The unique Option is Not a Validator**很多需要注意的地方）](http://mongoosejs.com/docs/validation.html)  
 [Creating from ES6 Classes Using loadClass()（重点**）](http://mongoosejs.com/docs/advanced_schemas.html)  
-
 #### 测试框架
 [test-a-node-restful-api-with-mocha-and-chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)  
 #### 高并发解决方案
@@ -28,4 +27,4 @@
 [Best practices for Express app structure](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)  
 [Node. js Web框架性能压测大比拼: koa 2 vs koa 1 vs express](http://www.0791quanquan.com/news_keji/topic_740214/)  
 [［译］Node.js 框架比较: Express vs. Koa vs. Hapi](http://ourjs.com/detail/5490db1c8a34fa320400000e)  
-
+[method-override](https://github.com/expressjs/method-override#method-override)  
