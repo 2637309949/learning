@@ -34,6 +34,7 @@
 [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)  
 [Node.js几道面试题](https://segmentfault.com/a/1190000008037987)  
 [tape](https://github.com/substack/tape)  
+[supertest](https://github.com/visionmedia/supertest)  
 #### 部署管理
 [Packaging](https://www.tutorialspoint.com/nodejs/nodejs_packaging.htm)  
 [Node.js的cluster模块**PM2](http://www.cnblogs.com/jaxu/p/5193643.html)  
