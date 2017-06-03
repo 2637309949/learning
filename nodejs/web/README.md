@@ -16,6 +16,7 @@
 [tdegrunt/jsonschema（适合前后分离-多嵌套json对象）](https://github.com/tdegrunt/jsonschema)  
 #### mongoosejs驱动
 [mongoosejs doc](http://mongoosejs.com/docs/)  
+[guide（Schemas）](http://mongoosejs.com/docs/guide.html)  
 [validation（The unique Option is Not a Validator**很多需要注意的地方）](http://mongoosejs.com/docs/validation.html)  
 [Creating from ES6 Classes Using loadClass()（重点**）](http://mongoosejs.com/docs/advanced_schemas.html)  
 #### 测试框架
