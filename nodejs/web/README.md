@@ -28,3 +28,4 @@
 [Node. js Web框架性能压测大比拼: koa 2 vs koa 1 vs express](http://www.0791quanquan.com/news_keji/topic_740214/)  
 [［译］Node.js 框架比较: Express vs. Koa vs. Hapi](http://ourjs.com/detail/5490db1c8a34fa320400000e)  
 [method-override](https://github.com/expressjs/method-override#method-override)  
+[pagination-using-mongoose-express-and-jade](http://madhums.me/2012/08/20/pagination-using-mongoose-express-and-jade/)  
