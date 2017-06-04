@@ -33,3 +33,4 @@
 [［译］Node.js 框架比较: Express vs. Koa vs. Hapi](http://ourjs.com/detail/5490db1c8a34fa320400000e)  
 [method-override](https://github.com/expressjs/method-override#method-override)  
 [pagination-using-mongoose-express-and-jade](http://madhums.me/2012/08/20/pagination-using-mongoose-express-and-jade/)  
+[Express 模板传值对象app.locals、res.locals](https://itbilu.com/nodejs/npm/Ny0k0TKP-.html)  
