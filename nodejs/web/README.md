@@ -17,6 +17,7 @@
 #### mongoosejs驱动
 [mongoosejs doc](http://mongoosejs.com/docs/)  
 [guide（Schemas***）](http://mongoosejs.com/docs/guide.html)  
+[populate](http://mongoosejs.com/docs/populate.html)  
 [validation（The unique Option is Not a Validator**很多需要注意的地方）](http://mongoosejs.com/docs/validation.html)  
 [Creating from ES6 Classes Using loadClass()（重点**）](http://mongoosejs.com/docs/advanced_schemas.html)  
 #### 测试框架
