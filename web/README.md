@@ -4,7 +4,7 @@
 [Cookie禁用了，Session还能用吗？](http://blog.csdn.net/u010433704/article/details/40950599)  
 #### CSRF
 [Http跨站点请求伪造解决方案](http://blog.csdn.net/hj7jay/article/details/52084425)  
-[understanding-csrf](https://github.com/pillarjs/understanding-csrf)  
+[understanding-csrf**](https://github.com/pillarjs/understanding-csrf)  
 [前端必备HTTP技能之跨站请求伪造(CSRF)技术详解](http://www.jianshu.com/p/d928fba78cda)  
 #### API接口安全
 [API接口签名校验，如何安全保存appsecret？](https://www.zhihu.com/question/40855191)  
