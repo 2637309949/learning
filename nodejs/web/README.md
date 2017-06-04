@@ -25,7 +25,7 @@
 #### 高并发解决方案
 [5 Performance Tips for Node.js Applications](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)  
 [scaling-node-js-applications](http://cjihrig.com/blog/scaling-node-js-applications/)  
-#### 模板
+#### VIEW模板
 [jade](https://cnodejs.org/topic/5368adc5cf738dd6090060f2)  
 #### 其他
 [Best practices for Express app structure](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)  
