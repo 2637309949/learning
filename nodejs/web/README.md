@@ -11,6 +11,7 @@
 #### Express常用中间件
 [method-override](https://github.com/expressjs/method-override#method-override)  
 [connect-flash](https://github.com/jaredhanson/connect-flash)  
+[passportjs（推荐使用，很完善，wechat，qq，openid登录）](http://passportjs.org/docs/overview)  
 #### Express视图引擎
 [jade](https://cnodejs.org/topic/5368adc5cf738dd6090060f2)  
 #### Koa框架
