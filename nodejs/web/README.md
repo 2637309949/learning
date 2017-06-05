@@ -10,6 +10,7 @@
 [Express 模板传值对象app.locals、res.locals](https://itbilu.com/nodejs/npm/Ny0k0TKP-.html)  
 #### Express常用中间件
 [method-override](https://github.com/expressjs/method-override#method-override)  
+[connect-flash](https://github.com/jaredhanson/connect-flash)  
 #### Express视图引擎
 [jade](https://cnodejs.org/topic/5368adc5cf738dd6090060f2)  
 #### Koa框架
