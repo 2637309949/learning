@@ -21,5 +21,6 @@
 [暂停或恢复.ready() 事件的执行](http://www.runoob.com/jquery/event-holdready.html)  
 #### jQuery插件
 [jq22](http://www.jq22.com/)  
+[jquery](https://plugins.jquery.com/)  
 
 
