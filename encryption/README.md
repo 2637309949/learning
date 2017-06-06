@@ -11,3 +11,4 @@
 [分析对比6大主流电子签名技术](http://www.wosign.com/news/2017-0420-01.htm)  
 [分析对比6大主流电子签名技术](http://www.wosign.com/news/2017-0420-01.htm)  
 [在java中如何实现电子签名](http://wenwen.sogou.com/z/q193670722.htm)  
+[基于电子签章的电子合同系统设计与实现](http://www.doc88.com/p-9873114280299.html)  
