@@ -16,3 +16,4 @@
 [ukey的运行原理是什么？](https://zhidao.baidu.com/question/540759892.html)  
 [分析网上银行使用USBKEY认证的原理](https://zhidao.baidu.com/question/101427764.html)  
 [数字证书及CA的扫盲介绍](http://kb.cnblogs.com/page/194742/)  
+[e签宝API接口](http://itsm.tsign.cn/index/frm-index-doc_1.shtml?_1496820798111)  
