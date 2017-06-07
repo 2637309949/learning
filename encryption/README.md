@@ -13,3 +13,4 @@
 [在java中如何实现电子签名](http://wenwen.sogou.com/z/q193670722.htm)  
 [基于电子签章的电子合同系统设计与实现](http://www.doc88.com/p-9873114280299.html)  
 [基于数字证书的UKEY安全登录](http://blog.csdn.net/zhihu008/article/details/8483285)  
+[ukey的运行原理是什么？](https://zhidao.baidu.com/question/540759892.html)  
