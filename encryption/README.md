@@ -17,4 +17,4 @@
 [数字证书及CA的扫盲介绍](http://kb.cnblogs.com/page/194742/)  
 [什么是CA证书](https://zhidao.baidu.com/question/431260376.html)  
 [e签宝API接口](http://itsm.tsign.cn/index/frm-index-doc_1.shtml?_1496820798111)  
-[CA证书的应用](http://blog.csdn.net/u013503014/article/details/40382847)  
+[CA证书的应用（一个RSA拦截的经典问题，由此出现CA证书）](http://blog.csdn.net/u013503014/article/details/40382847)  
