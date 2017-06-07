@@ -14,4 +14,5 @@
 [基于电子签章的电子合同系统设计与实现（**推荐**）](http://www.doc88.com/p-9873114280299.html)  
 [基于数字证书的UKEY安全登录](http://blog.csdn.net/zhihu008/article/details/8483285)  
 [ukey的运行原理是什么？](https://zhidao.baidu.com/question/540759892.html)  
+[分析网上银行使用USBKEY认证的原理](https://zhidao.baidu.com/question/101427764.html)  
 [数字证书及CA的扫盲介绍](http://kb.cnblogs.com/page/194742/)  
