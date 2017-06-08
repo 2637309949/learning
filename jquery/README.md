@@ -23,5 +23,6 @@
 [jq22插件](http://www.jq22.com/)  
 [jquery插件](https://plugins.jquery.com/)  
 [顶部固定分块导航（随着滑块指定）](http://www.outyear.co.uk/smint/)  
+[简洁分页](http://www.lanrenzhijia.com/jquery/2971.html)  
 
 
