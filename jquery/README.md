@@ -20,7 +20,8 @@
 [绑定context](http://www.runoob.com/jquery/event-proxy.html)  
 [暂停或恢复.ready() 事件的执行](http://www.runoob.com/jquery/event-holdready.html)  
 #### jQuery插件
-[jq22](http://www.jq22.com/)  
-[jquery](https://plugins.jquery.com/)  
+[jq22插件](http://www.jq22.com/)  
+[jquery插件](https://plugins.jquery.com/)  
+[顶部固定分块导航](http://www.outyear.co.uk/smint/)  
 
 
