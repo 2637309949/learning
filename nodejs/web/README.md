@@ -8,6 +8,9 @@
   
 模板学习2  
 > [mean.io （Mongo, Express, Angular, Node）](http://mean.io/)  
+  
+模板学习3  
+> [hackathon-starter](https://github.com/sahat/hackathon-starter)  
 #### Express基础
 [Express 模板传值对象app.locals、res.locals](https://itbilu.com/nodejs/npm/Ny0k0TKP-.html)  
 #### Express常用中间件
