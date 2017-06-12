@@ -18,4 +18,4 @@
 [Scope](http://www.scala-sbt.org/0.13/docs/zh-cn/Scopes.html)  
 [使用SBT构建Scala应用（推荐）](https://github.com/CSUG/real_world_scala/blob/master/02_sbt.markdown)  
 #### 函数式
-[typeclasses](http://typelevel.org/cats/typeclasses.html)  
+[typeclasses cat](http://typelevel.org/cats/typeclasses.html)  
