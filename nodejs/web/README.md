@@ -19,6 +19,7 @@
 [passportjs（推荐使用，很完善，wechat，qq，openid登录）](http://passportjs.org/docs/overview)  
 [express-status-monitor](https://www.npmjs.com/package/express-status-monitor)  
 #### Express视图引擎
+[html2jade](http://html2jade.vida.io/)  
 [jade](https://cnodejs.org/topic/5368adc5cf738dd6090060f2)  
 [how-to-use-jade](http://www.w3cplus.com/html/how-to-use-jade.html)  
 #### Koa框架
