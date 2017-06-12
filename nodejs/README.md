@@ -51,7 +51,8 @@
 #### 应用开发资源
 [WEB资源](https://github.com/2637309949/link-for-learning/blob/master/nodejs/web/README.md)  
 [10-things-you-shouldnt-do-while-running-nodejs-in-production（5，6，7，10*）](https://hashnode.com/post/10-things-you-shouldnt-do-while-running-nodejs-in-production-cisab2fyu0s9oth5341faywcw)  
-
+#### 异常信息
+[自定义错误信息](http://bluebirdjs.com/docs/api/catch.html)  
 #### 其他
 [将 Npm 的源替换成淘宝的源](http://www.thinksaas.cn/topics/0/400/400616.html)  
 [Visual Studio Code使用typings拓展自动补全功能](http://www.cnblogs.com/sumg/p/5664748.html)  
