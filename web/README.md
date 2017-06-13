@@ -25,6 +25,7 @@
 [HTTPS 是如何保证安全的？（结合流量劫持）](http://www.jianshu.com/p/b894a7e1c779)  
 #### 单点登录
 [单点登录的三种实现方式](http://www.jianshu.com/p/613e44d4a464)  
+[单系统登录机制](http://www.cnblogs.com/ywlaker/p/6113927.html)  
 #### 其他
 [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)  
 [CS 和 BS 的区别和优缺点](http://www.cnblogs.com/scnuyz/p/5808808.html)  
