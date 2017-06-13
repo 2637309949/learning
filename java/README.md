@@ -4,3 +4,5 @@
 #### mybatis
 #### hibernate
 #### struts2
+#### 其他
+[ Dubbo详细介绍与安装使用过程](http://blog.csdn.net/xlgen157387/article/details/51865289)  
