@@ -27,5 +27,6 @@
 [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)  
 [CS 和 BS 的区别和优缺点](http://www.cnblogs.com/scnuyz/p/5808808.html)  
 [彻底搞清referrer和origin](http://blog.csdn.net/zdavb/article/details/51161130)  
+[Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013744142037508cf42e51debf49668810645e02887691000)  
 
 
