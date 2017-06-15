@@ -19,6 +19,7 @@
 [机器学习相关的概括](http://haifengl.github.io/smile/overview.html)  
 [Introduction to Big Data](https://github.com/haifengl/bigdata)  
 [机器学习里的 kernel](https://www.zhihu.com/question/30371867?sort=created)  
+[cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)  
 
 
 
