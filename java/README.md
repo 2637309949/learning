@@ -1,6 +1,8 @@
 #### spring
 [start.spring.io](http://start.spring.io/)  
+#### spring boot^cloud
 [SpringBoot-Learning](http://git.oschina.net/didispace/SpringBoot-Learning)  
+[SpringBoot/Cloud](http://www.ityouknow.com/spring-boot)  
 #### mybatis
 #### hibernate
 #### struts2
