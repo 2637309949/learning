@@ -24,6 +24,7 @@
 [jquery插件](https://plugins.jquery.com/)  
 [顶部固定分块导航（随着滑块指定）](http://www.outyear.co.uk/smint/)  
 [简洁分页](http://www.lanrenzhijia.com/jquery/2971.html)  
+[拖拽](http://embed.plnkr.co/WcIZlD/)  
 #### jQuery SPA
 [best-jquery-plugins-for-creating-single-page-websites](https://codegeekz.com/best-jquery-plugins-for-creating-single-page-websites/)  
 
