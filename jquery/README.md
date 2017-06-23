@@ -21,6 +21,7 @@
 [暂停或恢复.ready() 事件的执行](http://www.runoob.com/jquery/event-holdready.html)  
 #### jQuery插件
 [jq22插件](http://www.jq22.com/)  
+[codeceo](http://www.codeceo.com/article/20-jquery-css3-side-menu.html)  
 [jquery插件](https://plugins.jquery.com/)  
 [顶部固定分块导航（随着滑块指定）](http://www.outyear.co.uk/smint/)  
 [简洁分页](http://www.lanrenzhijia.com/jquery/2971.html)  
