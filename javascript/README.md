@@ -40,6 +40,7 @@
 #### 自动化管理
 [grunt入门](http://developer.51cto.com/art/201506/479127.htm)  
 [grunt官方入门](https://gruntjs.com/getting-started)  
+[grunt-boilerplate](http://www.integralist.co.uk/posts/grunt-boilerplate.html)  
 [Introduction to Webpack with practical examples](https://julienrenaux.fr/2015/03/30/introduction-to-webpack-with-practical-examples/)   
 [The-ultimate-webpack-setup](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup)    
 #### 设计模式的实现
