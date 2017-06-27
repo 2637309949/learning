@@ -42,6 +42,7 @@
 [grunt官方入门](https://gruntjs.com/getting-started)  
 [grunt-boilerplate](http://www.integralist.co.uk/posts/grunt-boilerplate.html)  
 [grunt-boilerplate2](https://github.com/gwenvanhee/grunt-boilerplate)  
+[grunt-boilerplate3](https://github.com/toddmotto/fireshell)  
 [Introduction to Webpack with practical examples](https://julienrenaux.fr/2015/03/30/introduction-to-webpack-with-practical-examples/)   
 [The-ultimate-webpack-setup](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup)    
 #### 设计模式的实现
