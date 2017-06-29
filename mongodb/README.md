@@ -31,7 +31,8 @@
 #### 技巧
 [MongoDB使用小结：一些不常见的经验分享（推荐）](http://www.cnblogs.com/cswuyg/p/4355948.html)  
 [Mongodb性能调优 -性能优化建议](http://blog.csdn.net/happy_jijiawei/article/details/53737858)  
-
+#### 分表分库
+[mongoose-and-multiple-database-in-single-node-js-project](https://stackoverflow.com/questions/19474712/mongoose-and-multiple-database-in-single-node-js-project)  
 
 
 
