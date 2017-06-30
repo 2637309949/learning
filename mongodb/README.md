@@ -33,6 +33,7 @@
 [Mongodb性能调优 -性能优化建议](http://blog.csdn.net/happy_jijiawei/article/details/53737858)  
 #### 分表分库
 [mongoose-and-multiple-database-in-single-node-js-project](https://stackoverflow.com/questions/19474712/mongoose-and-multiple-database-in-single-node-js-project)  
+[mongoose-create-connection-for-multi-tenancy-support-in-node-js](http://www.duanqu.tech/questions/2575210/mongoose-create-connection-for-multi-tenancy-support-in-node-js)  
 
 
 
