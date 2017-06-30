@@ -15,6 +15,7 @@
 [表单数据的加密传输](http://blog.csdn.net/lj_hero/article/details/5969871)  
 [用RSA加密实现Web登录密码加密传输](http://blog.csdn.net/alonesword/article/details/11821519)  
 [详解Google Authenticator工作原理TOTP](http://www.csdn.net/article/2014-09-23/2821808-Google-Authenticator)  
+[secure-your-rest-api-right-way](https://stormpath.com/blog/secure-your-rest-api-right-way)  
 #### OAuth
 [OAuth 1.0](http://jamie-wang.iteye.com/blog/1182161)  
 [OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)  
