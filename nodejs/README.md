@@ -53,6 +53,7 @@
 [10-things-you-shouldnt-do-while-running-nodejs-in-production（5，6，7，10*）](https://hashnode.com/post/10-things-you-shouldnt-do-while-running-nodejs-in-production-cisab2fyu0s9oth5341faywcw)  
 #### 异常信息
 [自定义错误信息](http://bluebirdjs.com/docs/api/catch.html)  
+[node-js-best-practice-exception-handling（需读**）](https://stackoverflow.com/questions/7310521/node-js-best-practice-exception-handling)  
 #### 其他
 [将 Npm 的源替换成淘宝的源](http://www.thinksaas.cn/topics/0/400/400616.html)  
 [Visual Studio Code使用typings拓展自动补全功能](http://www.cnblogs.com/sumg/p/5664748.html)  
