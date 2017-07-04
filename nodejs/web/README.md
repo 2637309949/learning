@@ -1,5 +1,6 @@
 #### NODEJS EXPRESS实战
 [Express_Nodejs（涉及mongoose, async, form, mongodb, pug等常用技术）](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Setting_up_the_MongoDB_database)  
+[《koa实战》](http://book.apebook.org/minghe/koa-action/redis/index.html)
 #### Express模板学习
 模板学习1（里面的规范值得学习）  
 > [node-express-mongoose-demo（模板应用学习）](https://github.com/madhums/node-express-mongoose-demo)  
