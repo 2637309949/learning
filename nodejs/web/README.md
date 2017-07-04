@@ -22,6 +22,8 @@
 [html2jade](http://html2jade.vida.io/)  
 [jade](https://cnodejs.org/topic/5368adc5cf738dd6090060f2)  
 [how-to-use-jade](http://www.w3cplus.com/html/how-to-use-jade.html)  
+#### 文件上传
+[building-ajax-file-uploader-with-node](https://coligo.io/building-ajax-file-uploader-with-node/)
 #### Koa框架
 [《koa实战》](http://book.apebook.org/minghe/koa-action/redis/index.html)
 [koajs（***重要***）](https://github.com/koajs/examples)
