@@ -1,5 +1,7 @@
 #### spring
 [start.spring.io](http://start.spring.io/)  
+[spring4中文文档](https://sunrh.gitbooks.io/spring4-reference-chinese/content/Core_Technologies/The_IoC_container/Dependencies/Dependencies%20and%20configuration%20in%20detail.html)  
+
 #### spring boot^cloud
 [SpringBoot-Learning](http://git.oschina.net/didispace/SpringBoot-Learning)  
 [SpringBoot/Cloud](http://www.ityouknow.com/spring-boot)  
