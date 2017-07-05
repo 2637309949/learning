@@ -1,5 +1,6 @@
 #### 基本
 [Three Levels of the REST Maturity Model（重要**）](https://www.infoq.com/news/2010/03/RESTLevels)  
+[RESTful 架构详解](http://www.runoob.com/w3cnote/restful-architecture.html)  
 #### WEB 安全  
  1. HTTP安全要点
 >     www-Authenticate  
