@@ -8,6 +8,7 @@
 #### spring boot^cloud
 [SpringBoot-Learning](http://git.oschina.net/didispace/SpringBoot-Learning)  
 [SpringBoot/Cloud](http://www.ityouknow.com/spring-boot)  
+[@ConfigurationProperties 注解](http://www.jianshu.com/p/df57fefe0ab7)  
 #### mybatis
 #### hibernate
 #### struts2
