@@ -7,3 +7,5 @@
 [Django 文档](http://python.usyiyi.cn/django/index.html)  
 #### py2与py3区分
 [详解python2 和 python3的区别](http://www.cnblogs.com/qytang/p/5604282.html)  
+#### 第三库
+[wxpy](https://github.com/youfou/wxpy)  
