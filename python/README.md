@@ -11,3 +11,4 @@
 [详解python2 和 python3的区别](http://www.cnblogs.com/qytang/p/5604282.html)  
 #### 第三库
 [wxpy](https://github.com/youfou/wxpy)  
+[python-setup](http://lingxiankong.github.io/blog/2013/12/23/python-setup/)  
