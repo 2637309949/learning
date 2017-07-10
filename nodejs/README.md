@@ -62,6 +62,7 @@
 [利用Travis CI 让你的github项目持续构建(Node.js为例)](http://www.cnblogs.com/whitewolf/archive/2013/04/14/3019838.html)  
 [Test and Deploy with Confidence](https://travis-ci.org/)  
 [yarn（Fast, reliable, and secure dependency management）](https://github.com/yarnpkg/yarn)  
+[Nodejs 在stackoverflow的问题集合](https://stackoverflow.com/users/617839/alessioalex)  
 
 
 
