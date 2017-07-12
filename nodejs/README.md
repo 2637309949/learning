@@ -63,7 +63,8 @@
 [Test and Deploy with Confidence](https://travis-ci.org/)  
 [yarn（Fast, reliable, and secure dependency management）](https://github.com/yarnpkg/yarn)  
 [Nodejs 在stackoverflow的问题集合](https://stackoverflow.com/users/617839/alessioalex)  
-
+#### Master
+[Nodejs 在生产环境中的设计以及应用（非常推荐**）](https://www.joyent.com/node-js/production/design)  
 
 
 
