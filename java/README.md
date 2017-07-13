@@ -8,6 +8,7 @@
 #### spring boot^cloud
 [SpringBoot-Learning](http://git.oschina.net/didispace/SpringBoot-Learning)  
 [SpringBoot/Cloud](http://www.ityouknow.com/spring-boot)  
+[@ConfigurationProperties 注解](http://www.jianshu.com/p/df57fefe0ab7)  
 #### mybatis
 #### hibernate
 #### struts2
@@ -18,3 +19,6 @@
 [dubbo使用教程（可直接应用于企业开发）](http://blog.csdn.net/u010887744/article/details/64160769)  
 [dubbo-admin管理平台搭建](http://www.open-open.com/lib/view/open1453195648511.html)  
 [dubbo+sping+zookeeper入门教程](http://www.open-open.com/lib/view/open1449042372280.html)  
+#### 综合
+[java-best-practices](http://howtodoinjava.com/java-best-practices/)  
+

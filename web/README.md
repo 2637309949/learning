@@ -41,5 +41,6 @@
 [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013744142037508cf42e51debf49668810645e02887691000)  
 ### 网站(前端)
 [free-css](http://www.free-css.com/template-categories/bootstrap?start=24)  
-
+### HTTP
+[HTTP无状态协议和Connection:Keep-Alive容易犯的误区](http://blog.csdn.net/jiary5201314/article/details/51258835)  
 
