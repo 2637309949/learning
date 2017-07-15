@@ -6,5 +6,9 @@
 [Enterprise Spring Best Practices – Part 1：Project Config](https://dzone.com/articles/enterprise-spring-best)  
 [Enterprise Spring Best Practices Part 2：Application Architecture](https://dzone.com/articles/enterprise-spring-best-0)  
 [Enterprise Spring Framework Best Practices – Part 3：XML Config](https://dzone.com/articles/enterprise-spring-framework)  
+[Enterprise Spring Best Practices – Part 4 – Annotation Config](https://dzone.com/articles/enterprise-spring-best-1)  
+
+
+
 
 
