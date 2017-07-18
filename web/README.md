@@ -28,7 +28,8 @@
 #### 单点登录
 [单点登录的三种实现方式](http://www.jianshu.com/p/613e44d4a464)  
 [单系统登录机制](http://www.cnblogs.com/ywlaker/p/6113927.html)  
-[CAS实现SSO单点登录原理](http://www.open-open.com/lib/view/open1432381488005.html)  
+[CAS实现SSO单点登录原理1](http://www.open-open.com/lib/view/open1432381488005.html)  
+[CAS实现SSO单点登录原理2](http://www.coin163.com/java/cas/cas.html)  
 #### RPC
 [RPC框架Dubbo深入分析**](http://blog.csdn.net/zhiguozhu/article/details/50517513)  
 #### SAAS
