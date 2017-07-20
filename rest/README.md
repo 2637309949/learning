@@ -77,3 +77,8 @@
     // 情况七：417--服务器未满足”期望”请求标头字段的要求（请求头的字段未满足要求）
 ##### 3.其他情况参考openstack rest api（非常推荐使用）
 [object-storage](https://developer.openstack.org/api-ref/object-storage/?expanded=delete-container-detail,show-account-details-and-list-containers-detail)  
+##### 4.动词运用
+在编写RESTAPI时除了异常，所有server返回给controller层的结构都需包含一个statusCode和res字段至少，高级的需要headers，这里server推荐使用格式  
+server层调用：
+
+HttpUtils.Formatresponse()
