@@ -31,6 +31,7 @@
 [CAS实现SSO单点登录原理1](http://www.open-open.com/lib/view/open1432381488005.html)  
 [CAS实现SSO单点登录原理2](http://www.coin163.com/java/cas/cas.html)  
 [Enterprise Single Sign-On - CAS](https://www.apereo.org/projects/cas)  
+[基于saml的单点登录实现](http://blog.csdn.net/csethcrm/article/details/20694993)  
 #### RPC
 [RPC框架Dubbo深入分析**](http://blog.csdn.net/zhiguozhu/article/details/50517513)  
 #### SAAS
