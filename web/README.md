@@ -25,6 +25,7 @@
 #### 网络安全
 [HTTPS 是如何保证安全的？（结合流量劫持）](http://www.jianshu.com/p/b894a7e1c779)  
 [HTTP Basic Authorization](http://www.tuicool.com/articles/vaAfuui)  
+[数字证书原理（ssl,https）](http://blog.csdn.net/u013424496/article/details/51161370)  
 #### 单点登录
 [单点登录的三种实现方式](http://www.jianshu.com/p/613e44d4a464)  
 [单系统登录机制](http://www.cnblogs.com/ywlaker/p/6113927.html)  
