@@ -1,5 +1,6 @@
 #### 基本内容
 [Python模块学习——logging](http://www.cnblogs.com/captain_jack/archive/2011/01/21/1941453.html)  
+[模块](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0013868200171577d6385bb5b4f4875bee9cbf0f0fa29c5000)  
 #### super
 [Python中super()函数简介及用法分享](http://www.alonely.com.cn/Python/20161025/58629.html)  
 [深入解析Python编程中super关键字的用法](http://www.jb51.net/article/87324.htm)  
