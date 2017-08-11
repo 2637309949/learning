@@ -13,8 +13,9 @@
 
 #### 第二部分
 #### 机器学习scala篇
-[smile for scala](http://haifengl.github.io/smile/)  
+[www.python-course.eu](http://www.python-course.eu/text_classification_python.php)  
 #### 机器学习python篇
+[smile for scala](http://haifengl.github.io/smile/) 
 #### 机器学习其他资源
 [机器学习相关的概括](http://haifengl.github.io/smile/overview.html)  
 [Introduction to Big Data](https://github.com/haifengl/bigdata)  
