@@ -29,3 +29,5 @@
 #### WEB框架
 [jeasyui](http://www.jeasyui.com/demo/main/index.php?plugin=Window&theme=metro-blue&dir=ltr&pitem=&sort=)  
 [前端框架用哪个好](http://www.cnblogs.com/zhwl/p/3600898.html)  
+#### 图标
+[fontAwesome代替网页icon小图标](http://www.cnblogs.com/wangfupeng1988/p/4129500.html)  
