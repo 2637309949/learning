@@ -24,6 +24,7 @@
 [awesome-react**](https://github.com/enaqx/awesome-react)  
 [Navigation For React](https://react.rocks/tag/Navigation)  
 [dva 中文教程](https://github.com/dvajs/dva-docs/tree/master/v1/zh-cn/tutorial)  
+[dva-hackernews](https://github.com/dvajs/dva-hackernews)  
 
 
 
