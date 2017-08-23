@@ -5,6 +5,7 @@
 [Python 面向对象（初级篇）](http://www.cnblogs.com/wupeiqi/p/4493506.html)  
 [python 面向对象（进阶篇）](http://www.cnblogs.com/wupeiqi/p/4766801.html)  
 [python time模块常用函数](http://blog.csdn.net/hym2111/article/details/7895386)  
+[关于python 的re.sub用法](http://blog.csdn.net/lovemianmian/article/details/8867613)  
 #### 函数式编程
 [functional-programming-in-python](https://marcobonzanini.com/2015/06/08/functional-programming-in-python/)  
 [howto/functional](https://docs.python.org/3.4/howto/functional.html)  
