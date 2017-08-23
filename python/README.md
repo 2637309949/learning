@@ -4,7 +4,9 @@
 [Python 面向对象（初级篇）](http://www.cnblogs.com/wupeiqi/p/4493506.html)  
 [python 面向对象（进阶篇）](http://www.cnblogs.com/wupeiqi/p/4766801.html)  
 [python time模块常用函数](http://blog.csdn.net/hym2111/article/details/7895386)  
-#### super
+#### 函数式编程
+[functional-programming-in-python](https://marcobonzanini.com/2015/06/08/functional-programming-in-python/)  
+#### super理解
 [Python中super()函数简介及用法分享](http://www.alonely.com.cn/Python/20161025/58629.html)  
 [深入解析Python编程中super关键字的用法](http://www.jb51.net/article/87324.htm)  
 #### 性能
