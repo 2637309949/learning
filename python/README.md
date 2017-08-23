@@ -1,5 +1,6 @@
 #### 基本内容
 [Python模块学习——logging](http://www.cnblogs.com/captain_jack/archive/2011/01/21/1941453.html)  
+[Python 迭代器 & __iter__方法](http://blog.csdn.net/bluebird_237/article/details/38894617)  
 [模块](https://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0013868200171577d6385bb5b4f4875bee9cbf0f0fa29c5000)  
 [Python 面向对象（初级篇）](http://www.cnblogs.com/wupeiqi/p/4493506.html)  
 [python 面向对象（进阶篇）](http://www.cnblogs.com/wupeiqi/p/4766801.html)  
