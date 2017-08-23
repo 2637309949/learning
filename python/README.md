@@ -6,6 +6,7 @@
 [python time模块常用函数](http://blog.csdn.net/hym2111/article/details/7895386)  
 #### 函数式编程
 [functional-programming-in-python](https://marcobonzanini.com/2015/06/08/functional-programming-in-python/)  
+[howto/functional](https://docs.python.org/3.4/howto/functional.html)  
 #### super理解
 [Python中super()函数简介及用法分享](http://www.alonely.com.cn/Python/20161025/58629.html)  
 [深入解析Python编程中super关键字的用法](http://www.jb51.net/article/87324.htm)  
