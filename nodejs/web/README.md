@@ -45,6 +45,8 @@
 #### 高并发解决方案
 [5 Performance Tips for Node.js Applications](https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/)  
 [scaling-node-js-applications](http://cjihrig.com/blog/scaling-node-js-applications/)  
+#### 优化
+[making-dashboard-faster](https://engineering.gosquared.com/making-dashboard-faster)  
 #### 其他
 [Best practices for Express app structure](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)  
 [Node. js Web框架性能压测大比拼: koa 2 vs koa 1 vs express](http://www.0791quanquan.com/news_keji/topic_740214/)  
