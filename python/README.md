@@ -23,3 +23,7 @@
 [wxpy](https://github.com/youfou/wxpy)  
 [python-setup](http://lingxiankong.github.io/blog/2013/12/23/python-setup/)  
 [awesome-python](https://github.com/vinta/awesome-python)  
+#### 面试题
+[5 个很好的 Python 面试题](http://python.jobbole.com/86525/)  
+
+
