@@ -34,6 +34,9 @@
 #### 分表分库
 [mongoose-and-multiple-database-in-single-node-js-project（两种方式，useDB是最好的选择-共享pool池）](https://stackoverflow.com/questions/19474712/mongoose-and-multiple-database-in-single-node-js-project)  
 [mongoose-create-connection-for-multi-tenancy-support-in-node-js](http://www.duanqu.tech/questions/2575210/mongoose-create-connection-for-multi-tenancy-support-in-node-js)  
+#### 面试题
+[MongoDB知识整理](http://www.cnblogs.com/xing901022/p/3978243.html)  
+[MongoDB面试题集锦](http://blog.csdn.net/shehun1/article/details/21240731)  
 #### 其他
 [ID自增长，findAndModify，upsert: false and _id unique](https://docs.mongodb.com/v3.0/tutorial/create-an-auto-incrementing-field/)  
 
