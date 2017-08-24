@@ -1,3 +1,5 @@
+#### 基本
+[alvinalexander.com](https://alvinalexander.com/scala/scala-akka-actors-ask-examples-future-await-timeout-result)  
 #### 宏定义
 [元编程 Metaprogramming with Def Macros](http://www.cnblogs.com/tiger-xc/p/6112143.html)  
 #### 常用第三方库
