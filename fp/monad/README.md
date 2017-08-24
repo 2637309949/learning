@@ -1,0 +1,1 @@
+### Monad extends the Applicative type class with a new function flatten
