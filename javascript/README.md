@@ -49,7 +49,8 @@
 #### 设计模式的实现
 [单例模式](http://www.ceaze.com/archives/198.html)  
 [代理模式](http://www.ceaze.com/archives/210.html)  
-
+#### 其他
+[js浮点数精度问题(js计算中遇到的坑)](http://blog.csdn.net/dadadie/article/details/50385146)  
 
 
 
