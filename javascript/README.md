@@ -51,6 +51,8 @@
 [代理模式](http://www.ceaze.com/archives/210.html)  
 #### 其他
 [js浮点数精度问题(js计算中遇到的坑)(不要用原生的计算)](http://blog.csdn.net/dadadie/article/details/50385146)  
+[JavaScript中的各种小坑汇总](http://www.cnblogs.com/xxcanghai/p/5163020.html)  
+
 
 
 
