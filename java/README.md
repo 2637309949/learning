@@ -23,4 +23,5 @@
 [当当网dubbox](http://dangdangdotcom.github.io/dubbox/)  
 #### 综合
 [java-best-practices](http://howtodoinjava.com/java-best-practices/)  
-
+#### 面试题
+[各种面试题(一)](http://www.cnblogs.com/pengmengnan/p/6721293.html)  
