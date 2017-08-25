@@ -4,3 +4,7 @@
 
 #### 数据模型设计
 [databaseanswers](http://www.databaseanswers.org/data_models/index.htm)  
+
+#### 其他
+[hierarchical-recursive-query（树形检索）](https://stackoverflow.com/questions/20215744/how-to-create-a-mysql-hierarchical-recursive-query)  
+
