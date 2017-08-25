@@ -1,3 +1,5 @@
+#### 前端缓存
+[什么是ETag](http://www.jianshu.com/p/a3ea9619c38d)  
 #### 表单
 [防止表单重复提交的八种简单有效的策略](http://blog.csdn.net/myhuashengmi/article/details/52694077)  
 #### Cookie，Session
