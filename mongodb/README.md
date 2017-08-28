@@ -3,6 +3,7 @@
 [官方中文文档](http://docs.mongoing.com/manual-zh/introduction.html)  
 [查询文档嵌套对象（doc）](https://docs.mongodb.com/manual/reference/operator/projection/elemMatch/)  
 [查询文档嵌套对象（stackoverflow）](https://stackoverflow.com/questions/3985214/retrieve-only-the-queried-element-in-an-object-array-in-mongodb-collection)  
+[全文索引](https://docs.mongodb.com/manual/reference/operator/query/text/#text-score)  
 #### 索引
 [MongoDB性能篇 －创建索引，组合索引，唯一索引，删除索引和explain执行计划](http://www.360sdn.com/MongoDB/2014/0815/4143.html)  
 [mongodb3.0的索引管理学习整理](http://blog.csdn.net/louisliaoxh/article/details/51543552)  
