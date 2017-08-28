@@ -33,6 +33,7 @@
 [mysql集群性能和效率相对于单机mysql来说优势体现在哪些方面?**](http://www.oschina.net/question/1251494_143780?sort=time&p=1)  
 [mysql-proxy](http://www.iteye.com/topic/1132688)  
 [MySQL主从复制属于集群技术还是负载均衡技术？](https://www.zhihu.com/question/28360195)  
+[How To Use HAProxy to Set Up MySQL Load Balancing](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)  
 
 
 
