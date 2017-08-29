@@ -17,6 +17,7 @@
 #### 性能技巧
 [元数据](http://www.runoob.com/mysql/mysql-database-info.html)  
 [mysql性能优化教程](http://www.cnblogs.com/shengjie123/p/5692515.html)  
+[mysql SELECT FOR UPDATE语句使用示例](http://www.jb51.net/article/42778.htm)  
 #### 查询语句
 [MySQL查询语句练习题](http://blog.csdn.net/zhaoliang831214/article/details/48244139)  
 #### 面试题
@@ -29,6 +30,7 @@
 #### SQL集群
 [Mycat 数据库分库分表中间件](http://www.mycat.org.cn/)  
 [Mysql read/write splitting with Proxysql（第一个开源）](http://www.techietown.info/2017/01/mysql-readwrite-splitting-proxysql/)  
+
 [mysql+mycat搭建稳定高可用集群，负载均衡，主备复制，读写分离**](http://www.cnblogs.com/zhongshiqiang/p/5968768.html)  
 [MySQL集群搭建详解**](http://database.51cto.com/art/201505/475376_all.htm)  
 [mysql集群性能和效率相对于单机mysql来说优势体现在哪些方面?**](http://www.oschina.net/question/1251494_143780?sort=time&p=1)  
