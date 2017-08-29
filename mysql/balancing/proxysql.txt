@@ -1,0 +1,33 @@
+// 创建节点
+INSERT INTO mysql_servers(hostgroup_id, hostname, port) VALUES (0,"192.168.99.100′,3311);
+INSERT INTO mysql_servers(hostgroup_id, hostname, port) VALUES (0,"192.168.99.100′,3312);
+INSERT INTO mysql_servers(hostgroup_id, hostname, port) VALUES (1,"192.168.99.100′,3313);
+
+// 除了SELECT.*FOR UPDATE的SELECT都丢给slave
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^select",0,0);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^show",0,1);
+
+
+// 丢给master
+INSERT INTO mysql_query_rules (active, match_pattern, destination_hostgroup, apply) VALUES (1, "^SELECT.*FOR UPDATE", 1, 1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^create",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^update",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^truncate",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^savepoint",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^revoke",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^restore",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^reset",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^repair",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^rename",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^purge",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^lock",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^kill",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^grant",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^load",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^flush",1,1);
+INSERT INTO mysql_query_rules(active,match_pattern,destination_hostgroup,apply) VALUES(1,"^alter",1,1);
+
+
+
+// 创建proxysql用户,同时需要保证在其他节点也存在
+INSERT INTO mysql_users (username,password) VALUES ("root", "111111");
