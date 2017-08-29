@@ -29,13 +29,13 @@
 [收集的MySQL的面试题](http://www.360doc.com/content/16/0417/16/32369147_551388666.shtml)  
 #### SQL集群
 [Mycat 数据库分库分表中间件](http://www.mycat.org.cn/)  
-[Mysql read/write splitting with Proxysql（第一个开源）](http://www.techietown.info/2017/01/mysql-readwrite-splitting-proxysql/)  
-
 [mysql+mycat搭建稳定高可用集群，负载均衡，主备复制，读写分离**](http://www.cnblogs.com/zhongshiqiang/p/5968768.html)  
 [MySQL集群搭建详解**](http://database.51cto.com/art/201505/475376_all.htm)  
 [mysql集群性能和效率相对于单机mysql来说优势体现在哪些方面?**](http://www.oschina.net/question/1251494_143780?sort=time&p=1)  
-[mysql-proxy](http://www.iteye.com/topic/1132688)  
 [MySQL主从复制属于集群技术还是负载均衡技术？](https://www.zhihu.com/question/28360195)  
+#### 负载均衡
+[Mysql read/write splitting with Proxysql（第一个开源）](http://www.techietown.info/2017/01/mysql-readwrite-splitting-proxysql/)  
+[mysql-proxy](http://www.iteye.com/topic/1132688)  
 [How To Use HAProxy to Set Up MySQL Load Balancing（HAProxy可以负载http和tcp）](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)  
 
 
