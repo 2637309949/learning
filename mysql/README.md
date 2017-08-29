@@ -33,11 +33,12 @@
 [MySQL集群搭建详解**](http://database.51cto.com/art/201505/475376_all.htm)  
 [mysql集群性能和效率相对于单机mysql来说优势体现在哪些方面?**](http://www.oschina.net/question/1251494_143780?sort=time&p=1)  
 [MySQL主从复制属于集群技术还是负载均衡技术？](https://www.zhihu.com/question/28360195)  
-#### 负载均衡
+#### 负载均衡(配合主从复制)
 [Mysql read/write splitting with Proxysql（第一个开源）](http://www.techietown.info/2017/01/mysql-readwrite-splitting-proxysql/)  
 [mysql-proxy](http://www.iteye.com/topic/1132688)  
 [How To Use HAProxy to Set Up MySQL Load Balancing（HAProxy可以负载http和tcp）](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)  
-
+#### 主从复制
+[mysql主从复制（超简单）](http://369369.blog.51cto.com/319630/790921/)  
 
 
 
