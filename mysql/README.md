@@ -40,6 +40,7 @@
 [mysql-proxy](http://www.iteye.com/topic/1132688)  
 [How To Use HAProxy to Set Up MySQL Load Balancing（HAProxy可以负载http和tcp）](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)  
 [Amoeba（不支持事务）](http://docs.hexnova.com/amoeba/)  
+[mysql-proxy实现读写分离](http://www.cnblogs.com/lin3615/p/5684891.html)  
 #### 主从复制
 [mysql主从复制（超简单）](http://369369.blog.51cto.com/319630/790921/)  
 
