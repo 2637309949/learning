@@ -39,6 +39,8 @@
 [Mysql read/write splitting with Proxysql（第一个开源）](http://www.techietown.info/2017/01/mysql-readwrite-splitting-proxysql/)  
 [mysql-proxy](http://www.iteye.com/topic/1132688)  
 [How To Use HAProxy to Set Up MySQL Load Balancing（HAProxy可以负载http和tcp）](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing--3)  
+[Amoeba](http://docs.hexnova.com/amoeba/)  
+
 #### 主从复制
 [mysql主从复制（超简单）](http://369369.blog.51cto.com/319630/790921/)  
 
