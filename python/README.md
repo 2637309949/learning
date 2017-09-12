@@ -25,5 +25,6 @@
 [awesome-python](https://github.com/vinta/awesome-python)  
 #### 面试题
 [5 个很好的 Python 面试题](http://python.jobbole.com/86525/)  
-
+#### 其他
+[Full Stack Python](https://www.fullstackpython.com/enterprise-python.html)  
 
