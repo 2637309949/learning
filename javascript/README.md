@@ -53,6 +53,7 @@
 [你有必要知道的25个JavaScript面试题](http://www.jb51.net/article/77140.htm)  
 [10道典型的JavaScript面试题](http://www.jb51.net/article/109190.htm)  
 [javascript前端面试题及答案整理](http://www.cnblogs.com/TinyMing/p/5806004.html)  
+[10个常见的Node.js面试题](http://www.jianshu.com/p/3416a0bf309c)  
 #### 其他
 [js浮点数精度问题(js计算中遇到的坑)(不要用原生的计算)](http://blog.csdn.net/dadadie/article/details/50385146)  
 [JavaScript中的各种小坑汇总](http://www.cnblogs.com/xxcanghai/p/5163020.html)  
