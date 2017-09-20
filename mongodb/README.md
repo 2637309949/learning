@@ -42,6 +42,9 @@
 [MongoDB面试题集锦](http://blog.csdn.net/shehun1/article/details/21240731)  
 #### 其他
 [ID自增长，findAndModify，upsert: false and _id unique](https://docs.mongodb.com/v3.0/tutorial/create-an-auto-incrementing-field/)  
+#### 嵌套文档的增删改查(重要)
+[增删](https://docs.mongodb.com/manual/reference/operator/update-array/)  
+[mongodb-playing-with-arrays（增删该查推荐）](https://tgrall.github.io/blog/2015/04/21/mongodb-playing-with-arrays/)  
 
 
 
