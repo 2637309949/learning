@@ -8,7 +8,7 @@
 [关于python 的re.sub用法](http://blog.csdn.net/lovemianmian/article/details/8867613)  
 [在 __init__.py 里写代码的若干理由](http://blog.csdn.net/djangor/article/details/39673659)  
 [Python强大的自省简析](http://blog.csdn.net/longerzone/article/details/17913117)  
-
+[python3 异常处理](http://www.cnblogs.com/kamil/p/5541782.html)  
 #### 函数式编程
 [functional-programming-in-python](https://marcobonzanini.com/2015/06/08/functional-programming-in-python/)  
 [howto/functional](https://docs.python.org/3.4/howto/functional.html)  
