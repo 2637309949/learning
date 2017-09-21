@@ -28,6 +28,7 @@
 [awesome-python](https://github.com/vinta/awesome-python)  
 #### 面试题
 [5 个很好的 Python 面试题](http://python.jobbole.com/86525/)  
+[很全的 Python 面试题](http://python.jobbole.com/85231/)  
 #### 项目分析
 [Choose Your Own Adventure Presentations with Reveal.js, Python and WebSockets](https://www.twilio.com/blog/2014/11/choose-your-own-adventure-presentations-with-reveal-js-python-and-websockets.html)  
 #### 其他
