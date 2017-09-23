@@ -4,6 +4,8 @@
 [java正则表达式appendReplacement和appendTail方法](http://www.bubuko.com/infodetail-2134719.html)  
 #### 集合类型
 [java集合复习笔记-java集合继承关系图](http://blog.csdn.net/sdhgood/article/details/38849477)  
+#### 异常
+[Java 异常(Exception)&自定义异常](http://blog.csdn.net/top_code/article/details/39638467)  
 #### spring
 [start.spring.io](http://start.spring.io/)  
 [spring4中文文档](https://sunrh.gitbooks.io/spring4-reference-chinese/content/Core_Technologies/The_IoC_container/Dependencies/Dependencies%20and%20configuration%20in%20detail.html)  
