@@ -2,6 +2,8 @@
 [枚举类](http://www.jianshu.com/p/46dbd930f6a2)  
 [为什么说Java匿名内部类是残缺的闭包](http://blog.csdn.net/hzy38324/article/details/77986095)  
 [java正则表达式appendReplacement和appendTail方法](http://www.bubuko.com/infodetail-2134719.html)  
+#### 集合类型
+[java集合复习笔记-java集合继承关系图](http://blog.csdn.net/sdhgood/article/details/38849477)  
 #### spring
 [start.spring.io](http://start.spring.io/)  
 [spring4中文文档](https://sunrh.gitbooks.io/spring4-reference-chinese/content/Core_Technologies/The_IoC_container/Dependencies/Dependencies%20and%20configuration%20in%20detail.html)  
