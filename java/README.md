@@ -25,3 +25,5 @@
 [java-best-practices](http://howtodoinjava.com/java-best-practices/)  
 #### 面试题
 [各种面试题(一)](http://www.cnblogs.com/pengmengnan/p/6721293.html)  
+[115个Java面试题和答案——终极列表（上）](http://www.importnew.com/10980.html)  
+[精选30道Java笔试题解答](https://www.cnblogs.com/lanxuezaipiao/p/3371224.html)  
