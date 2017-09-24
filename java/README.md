@@ -2,6 +2,7 @@
 [枚举类](http://www.jianshu.com/p/46dbd930f6a2)  
 [为什么说Java匿名内部类是残缺的闭包](http://blog.csdn.net/hzy38324/article/details/77986095)  
 [java正则表达式appendReplacement和appendTail方法](http://www.bubuko.com/infodetail-2134719.html)  
+[Java 实例（推荐）](http://www.runoob.com/java/java-examples.html)  
 #### 集合类型
 [java集合复习笔记-java集合继承关系图](http://blog.csdn.net/sdhgood/article/details/38849477)  
 #### 异常
