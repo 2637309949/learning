@@ -45,6 +45,6 @@
 #### 嵌套文档的增删改查(重要)
 [增删](https://docs.mongodb.com/manual/reference/operator/update-array/)  
 [mongodb-playing-with-arrays（增删该查推荐）](https://tgrall.github.io/blog/2015/04/21/mongodb-playing-with-arrays/)  
-
+[使用$更新第一个被匹配的嵌套文档（使用$elemMatch可以匹配嵌套文档里的多个条件，或者只会满足单一）](https://docs.mongodb.com/manual/reference/operator/update/positional/)  
 
 
