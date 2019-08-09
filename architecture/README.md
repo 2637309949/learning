@@ -1,3 +1,7 @@
+#### 基本认识
+[分布式系统架构设计](https://blog.csdn.net/yuhaiyang_1/article/details/80892492)  
+[你能不能设计出一个完美的分布式系统？](https://www.cnblogs.com/James1/p/9026322.html)  
+
 #### 架构服务
 [SOA和SaaS的区别](http://blog.csdn.net/chenyi8888/article/details/6059894)  
 #### 高并发和分布式

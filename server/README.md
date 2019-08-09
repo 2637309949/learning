@@ -10,4 +10,6 @@
 [Nginx中文文档](http://www.nginx.cn/doc/)  
 [Nginx 服务器安装及配置文件详解](http://www.runoob.com/w3cnote/nginx-install-and-config.html)  
 
+#### 其他
+[正向代理与反向代理小记](https://blog.csdn.net/qq_29647709/article/details/85319039)  
 
